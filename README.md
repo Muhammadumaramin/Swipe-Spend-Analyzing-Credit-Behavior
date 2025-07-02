@@ -3,6 +3,10 @@ Project Type: Internship Project
 Company: Storied Data Inc.
 Tools Used: Storied Data Inc, Excel
 
+Check the "Dashboard" 
+http://localhost:55267/temp/workspace_-fa31299f.html
+https://www.linkedin.com/feed/update/urn:li:activity:7346284170618228736/
+
 🔍 Overview
 This project was part of my internship at Storied Data Inc., where I designed and developed an interactive dashboard to explore customer behavior related to credit cards and personal loans.
 The goal was to uncover patterns and provide meaningful insights to support data-driven decisions.
