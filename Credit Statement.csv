@@ -1,0 +1,501 @@
+Card Type,Annual_Fees,Activation_30_Days,Customer_Acq_Cost,Week_Start_Date,Qtr,current_year,Credit_Limit,Total_Revolving_Bal,Total_Trans_Amt,Total_Trans_Ct,Use Chip,Exp Type,Interest_Earned,Customer_Age,Gender,Dependent_Count,Education_Level,Marital_Status,state_cd,Car_Owner,House_Owner,Personal_loan,contact,Customer_Job,Income,Rating,Crediit Utilization,Risk Level,Credit Usage Level,Personal Loan Taken,Age Group
+Blue,$300,1,108,22-Oct,Q4,2022,"$1,315",$690,"$9,603",56,Swipe ,Entertainment,$599,42,F,3,Uneducated,Married,CA,no,no,yes,cellular,Govt,"$30,574",1,52.47,High Risk,Medium,69,30-45
+Blue,$175,1,96,22-Oct,Q4,2022,"$5,711",$0,"$4,325",72,Swipe ,Fuel,$691,62,F,0,High School,Unknown,NY,yes,no,no,cellular,Selfemployeed,"$57,679",2,0,Low Risk,Low,68,60+
+Blue,$195,0,76,22-Oct,Q4,2022,"$3,104","$1,766","$9,353",24,Swipe ,Travel,$216,47,F,3,Doctorate,Married,NJ,no,no,no,unknown,Blue-collar,"$152,263",1,56.89,High Risk,Medium,68,46-60
+Blue,$495,1,72,22-Oct,Q4,2022,"$2,553","$1,823","$3,853",69,Chip ,Grocery,"$1,002",49,M,5,Graduate,Married,TX,no,no,no,cellular,Businessman,"$43,653",4,71.41,Low Risk,High,68,46-60
+Blue,$100,0,172,22-Oct,Q4,2022,"$2,476","$1,944","$4,025",65,Chip ,Fuel,$845,53,F,3,Graduate,Married,NY,no,no,no,cellular,Selfemployeed,"$47,883",2,78.51,Low Risk,High,68,46-60
+Blue,$95,0,117,22-Oct,Q4,2022,"$1,336",$0,"$4,155",79,Online ,Grocery,"$1,080",47,F,4,Post-Graduate,Single,TX,no,yes,no,cellular,Selfemployeed,"$52,038",1,0,High Risk,Low,68,46-60
+Blue,$400,0,103,22-Oct,Q4,2022,"$3,868","$1,384","$4,716",79,Swipe ,Food,$943,42,F,4,High School,Married,CA,yes,no,no,cellular,White-collar,"$75,239",3,35.78,Low Risk,Medium,68,30-45
+Blue,$335,1,62,22-Oct,Q4,2022,"$1,764",$0,"$8,540",47,Chip ,Entertainment,$795,40,F,4,Graduate,Married,FL,no,no,no,unknown,Businessman,"$32,035",5,0,Low Risk,Low,68,30-45
+Blue,$365,0,115,22-Oct,Q4,2022,"$2,610","$1,146","$3,677",70,Chip ,Entertainment,$956,45,F,3,Graduate,Married,TX,yes,yes,no,cellular,Retirees,"$40,270",3,43.91,Low Risk,Medium,68,30-45
+Blue,$410,1,102,22-Oct,Q4,2022,"$1,619",$0,"$4,254",82,Chip ,Food,"$1,149",54,F,3,Uneducated,Married,CA,no,no,no,cellular,Businessman,"$55,396",4,0,Low Risk,Low,68,46-60
+Blue,$330,0,145,22-Oct,Q4,2022,"$6,162",$943,"$9,527",35,Online ,Bills,$260,51,F,1,Doctorate,Married,NV,no,yes,no,unknown,Selfemployeed,"$194,975",5,15.3,Low Risk,Low,68,46-60
+Blue,$140,1,119,22-Oct,Q4,2022,"$1,342","$1,246","$3,929",66,Swipe ,Grocery,"$1,061",31,M,1,Graduate,Single,CA,no,no,no,telephone,Selfemployeed,"$45,468",5,92.85,Low Risk,High,68,30-45
+Blue,$325,1,104,22-Oct,Q4,2022,"$8,230","$1,333","$7,736",84,Swipe ,Grocery,$464,37,M,3,Graduate,Married,FL,no,yes,no,cellular,Businessman,"$107,421",5,16.2,Low Risk,Low,68,30-45
+Blue,$150,1,85,22-Oct,Q4,2022,"$1,334",$0,"$3,534",78,Swipe ,Entertainment,$353,60,F,1,Graduate,Single,NY,yes,no,no,cellular,Selfemployeed,"$38,459",4,0,Low Risk,Low,68,46-60
+Blue,$375,0,87,22-Oct,Q4,2022,"$2,646",$872,"$4,246",80,Swipe ,Grocery,$510,46,F,4,Graduate,Single,CA,yes,no,no,cellular,Businessman,"$55,057",4,32.96,Low Risk,Medium,68,46-60
+Blue,$480,0,79,22-Oct,Q4,2022,"$5,384","$1,396","$4,338",75,Swipe ,Entertainment,$390,42,M,4,Graduate,Single,TX,no,no,no,cellular,Govt,"$58,212",5,25.93,Low Risk,Low,68,30-45
+Blue,$295,1,48,22-Oct,Q4,2022,"$2,421","$1,029","$2,377",56,Swipe ,Bills,$357,54,F,1,High School,Single,CA,yes,yes,no,cellular,Selfemployeed,"$26,354",4,42.5,Low Risk,Medium,68,46-60
+Blue,$110,1,59,22-Oct,Q4,2022,"$2,667","$1,590","$4,596",85,Swipe ,Bills,$689,34,M,3,High School,Married,MN,no,no,no,cellular,Blue-collar,"$70,156",5,59.62,Low Risk,Medium,68,30-45
+Blue,$430,1,89,22-Oct,Q4,2022,"$1,438",$0,"$2,614",49,Online ,Grocery,$523,49,F,4,Unknown,Single,TX,no,yes,no,cellular,Govt,"$30,752",5,0,Low Risk,Low,68,46-60
+Blue,$485,0,73,22-Oct,Q4,2022,"$3,114","$1,059","$4,342",62,Chip ,Travel,"$1,129",43,F,5,High School,Unknown,CA,no,yes,no,cellular,White-collar,"$58,333",1,34.01,High Risk,Medium,68,30-45
+Blue,$150,0,76,22-Oct,Q4,2022,"$3,166",$810,"$1,802",36,Swipe ,Grocery,$146,47,F,3,Uneducated,Unknown,TX,no,no,no,cellular,Govt,"$16,492",2,25.58,Low Risk,Low,68,46-60
+Blue,$355,1,75,22-Oct,Q4,2022,"$4,589","$1,240","$1,637",61,Swipe ,Bills,$115,39,F,3,Graduate,Unknown,TX,no,yes,no,cellular,Selfemployeed,"$14,975",1,27.02,High Risk,Low,68,30-45
+Blue,$150,0,90,22-Oct,Q4,2022,"$2,170","$1,498","$4,569",79,Chip ,Entertainment,$548,51,M,1,Unknown,Married,FL,no,no,no,cellular,Retirees,"$68,986",4,69.03,Low Risk,High,68,46-60
+Blue,$415,0,46,22-Oct,Q4,2022,"$1,604","$2,036","$5,394",28,Online ,Entertainment,$237,41,F,5,Post-Graduate,Married,CA,no,yes,no,cellular,Blue-collar,"$13,212",2,126.93,Low Risk,High,68,30-45
+Blue,$335,0,123,22-Oct,Q4,2022,"$2,210",$759,"$2,755",53,Swipe ,Entertainment,$441,43,F,3,Graduate,Married,TX,no,no,yes,cellular,Selfemployeed,"$32,183",1,34.34,High Risk,Medium,68,30-45
+Blue,$200,1,76,22-Oct,Q4,2022,"$2,363",$978,"$2,635",40,Swipe ,Fuel,$395,47,F,2,Graduate,Single,FL,no,yes,no,cellular,White-collar,"$31,045",3,41.39,Low Risk,Medium,67,46-60
+Blue,$490,1,116,22-Oct,Q4,2022,"$1,438",$0,"$1,445",38,Swipe ,Bills,$246,64,F,0,High School,Single,NY,yes,no,no,cellular,Selfemployeed,"$14,198",4,0,Low Risk,Low,67,60+
+Blue,$430,0,141,22-Oct,Q4,2022,"$3,116",$0,"$2,768",45,Swipe ,Bills,$554,59,F,1,High School,Single,TX,yes,no,no,cellular,Selfemployeed,"$32,287",5,0,Low Risk,Low,67,46-60
+Blue,$300,0,111,22-Oct,Q4,2022,"$3,232","$1,564","$1,342",112,Swipe ,Fuel,"$1,971",46,M,4,Graduate,Single,NJ,no,yes,no,cellular,White-collar,"$125,955",5,48.39,Low Risk,Medium,67,46-60
+Blue,$300,1,103,22-Oct,Q4,2022,"$6,145","$1,349","$4,893",93,Chip ,Entertainment,$734,47,M,2,Unknown,Single,FL,yes,no,no,unknown,Blue-collar,"$84,114",5,21.95,Low Risk,Low,67,46-60
+Blue,$150,1,148,22-Oct,Q4,2022,"$1,738",$0,"$2,572",62,Swipe ,Bills,$540,64,M,0,Graduate,Married,FL,yes,yes,no,cellular,Blue-collar,"$29,987",3,0,Low Risk,Low,67,60+
+Blue,$320,1,110,22-Nov,Q4,2022,"$2,601","$1,888","$4,899",62,Chip ,Food,$833,53,M,2,Graduate,Married,CA,no,no,no,cellular,Selfemployeed,"$84,494",5,72.59,Low Risk,High,67,46-60
+Blue,$325,1,111,22-Nov,Q4,2022,"$3,024","$1,649","$4,463",89,Swipe ,Entertainment,$268,53,M,3,High School,Single,NY,no,no,no,cellular,Businessman,"$63,867",4,54.53,Low Risk,Medium,67,46-60
+Blue,$200,0,42,22-Nov,Q4,2022,"$2,084","$1,647","$1,997",37,Swipe ,Fuel,$160,42,F,3,Unknown,Married,CA,yes,no,yes,cellular,Selfemployeed,"$14,975",5,79.03,Low Risk,High,67,30-45
+Blue,$125,0,98,22-Nov,Q4,2022,"$3,809","$1,165","$2,306",46,Chip ,Fuel,$184,53,F,3,Uneducated,Single,CA,no,yes,no,cellular,Retirees,"$25,214",1,30.59,High Risk,Medium,66,46-60
+Blue,$225,1,75,22-Nov,Q4,2022,"$8,940","$1,518","$1,459",97,Swipe ,Entertainment,"$3,904",54,M,4,Graduate,Married,TX,no,yes,no,cellular,Businessman,"$169,176",2,16.98,Low Risk,Low,66,46-60
+Blue,$95,1,124,22-Nov,Q4,2022,"$2,761","$1,950","$4,510",88,Swipe ,Grocery,$992,54,M,5,High School,Married,NJ,no,no,no,cellular,Govt,"$66,027",1,70.63,High Risk,High,66,46-60
+Blue,$355,0,147,22-Nov,Q4,2022,"$1,546","$1,187","$4,484",81,Chip ,Food,$538,44,M,2,Doctorate,Single,IL,yes,no,no,cellular,Retirees,"$64,739",4,76.78,Low Risk,High,66,30-45
+Blue,$465,0,118,22-Nov,Q4,2022,"$2,157",$721,"$4,250",85,Swipe ,Grocery,$510,33,F,3,Graduate,Single,NJ,yes,yes,no,cellular,Selfemployeed,"$55,187",2,33.43,Low Risk,Medium,66,30-45
+Blue,$275,0,88,22-Nov,Q4,2022,"$8,398","$1,892","$1,489",29,Swipe ,Bills,$387,47,M,4,Uneducated,Unknown,UT,no,no,no,cellular,Selfemployeed,"$14,975",1,22.53,High Risk,Low,66,46-60
+Blue,$330,0,119,22-Nov,Q4,2022,"$3,186",$968,"$4,077",75,Swipe ,Bills,"$1,060",64,M,0,Doctorate,Married,UT,no,no,no,cellular,Blue-collar,"$49,664",5,30.38,Low Risk,Medium,66,60+
+Blue,$125,0,117,22-Nov,Q4,2022,"$2,694","$1,833","$3,366",56,Chip ,Fuel,$404,33,F,2,Uneducated,Unknown,CA,yes,yes,no,cellular,Retirees,"$36,705",3,68.04,Low Risk,High,66,30-45
+Blue,$175,1,75,22-Nov,Q4,2022,"$1,330",$0,"$1,385",50,Swipe ,Bills,$97,42,F,3,Graduate,Married,CA,yes,no,no,cellular,Selfemployeed,"$12,937",4,0,Low Risk,Low,66,30-45
+Blue,$245,1,86,22-Nov,Q4,2022,"$2,722","$1,473","$3,129",69,Swipe ,Bills,$282,61,F,1,High School,Single,CA,no,no,no,cellular,Govt,"$34,941",4,54.11,Low Risk,Medium,66,60+
+Blue,$250,1,85,22-Nov,Q4,2022,"$1,706",$0,"$2,320",42,Swipe ,Bills,$580,46,M,2,High School,Single,TX,no,yes,no,cellular,Blue-collar,"$25,619",5,0,Low Risk,Low,66,46-60
+Blue,$125,0,81,22-Nov,Q4,2022,"$5,268","$2,191","$2,138",40,Swipe ,Grocery,$299,39,F,2,Uneducated,Single,NJ,yes,no,no,unknown,Retirees,"$22,287",5,41.59,Low Risk,Medium,66,30-45
+Blue,$175,0,100,22-Nov,Q4,2022,"$2,209",$0,"$3,292",52,Swipe ,Bills,$461,47,F,2,Graduate,Married,CA,yes,yes,yes,telephone,Govt,"$36,074",4,0,Low Risk,Low,66,46-60
+Blue,$125,0,108,22-Nov,Q4,2022,"$1,432","$2,507","$2,083",56,Swipe ,Fuel,$479,49,F,3,Unknown,Single,TX,no,yes,no,cellular,Selfemployeed,"$21,265",4,175.07,Low Risk,High,65,46-60
+Blue,$245,1,73,22-Nov,Q4,2022,"$5,349","$1,228","$1,343",30,Swipe ,Bills,$336,65,F,1,Unknown,Married,NJ,yes,no,no,cellular,Selfemployeed,"$162,150",4,22.96,Low Risk,Low,65,60+
+Blue,$175,0,103,22-Nov,Q4,2022,"$7,970",$0,"$1,284",30,Swipe ,Entertainment,$270,51,F,3,Post-Graduate,Married,NY,no,yes,no,cellular,Selfemployeed,"$181,224",4,0,Low Risk,Low,65,46-60
+Blue,$425,1,155,22-Nov,Q4,2022,"$5,073","$1,533","$1,420",122,Chip ,Food,"$2,416",48,M,3,Uneducated,Single,NY,no,no,no,cellular,White-collar,"$131,235",3,30.22,Low Risk,Medium,65,46-60
+Blue,$360,0,108,22-Nov,Q4,2022,"$3,377",$948,"$1,407",44,Swipe ,Fuel,$281,45,F,4,Graduate,Single,CA,yes,no,no,cellular,Blue-collar,"$13,394",5,28.07,Low Risk,Low,65,30-45
+Blue,$445,1,73,22-Nov,Q4,2022,"$1,462",$0,"$2,299",42,Swipe ,Food,$391,28,M,0,High School,Single,TX,no,yes,yes,unknown,Selfemployeed,"$25,098",4,0,Low Risk,Low,65,<30
+Blue,$110,1,116,22-Nov,Q4,2022,"$4,131",$785,$906,22,Swipe ,Grocery,$245,49,F,3,Graduate,Single,TX,no,yes,no,cellular,Selfemployeed,"$2,565",5,19,Low Risk,Low,64,46-60
+Blue,$175,1,113,22-Nov,Q4,2022,"$4,311",$822,"$4,965",94,Swipe ,Food,"$1,241",42,M,4,High School,Married,NY,no,no,yes,cellular,Govt,"$87,966",1,19.07,High Risk,Low,64,30-45
+Blue,$220,0,112,22-Nov,Q4,2022,"$2,132","$2,216","$8,693",91,Swipe ,Entertainment,"$2,652",42,M,3,Graduate,Married,NJ,no,yes,yes,cellular,Blue-collar,"$116,339",2,103.94,Low Risk,High,63,30-45
+Blue,$445,1,83,22-Nov,Q4,2022,"$4,606","$1,556","$4,363",78,Swipe ,Food,$742,31,F,0,Post-Graduate,Single,TX,yes,yes,no,cellular,Retirees,"$59,168",1,33.78,High Risk,Medium,62,30-45
+Blue,$290,0,86,22-Nov,Q4,2022,"$5,219","$1,081","$3,481",78,Swipe ,Food,$661,44,F,2,High School,Single,FL,yes,yes,yes,cellular,White-collar,"$37,853",4,20.71,Low Risk,Low,62,30-45
+Blue,$270,1,106,22-Nov,Q4,2022,"$4,637",$0,"$4,583",86,Swipe ,Bills,$367,55,M,0,Doctorate,Married,SC,no,yes,no,cellular,Businessman,"$69,577",2,0,Low Risk,Low,61,46-60
+Blue,$245,0,110,22-Nov,Q4,2022,"$1,438","$1,025","$9,702",12,Swipe ,Travel,$190,56,F,3,Graduate,Single,CA,no,no,no,unknown,Selfemployeed,"$188,250",1,71.28,High Risk,High,61,46-60
+Blue,$275,0,101,22-Nov,Q4,2022,"$4,216","$1,290","$1,787",121,Swipe ,Bills,"$1,792",55,M,3,Graduate,Single,FL,yes,no,no,unknown,White-collar,"$141,448",4,30.6,Low Risk,Medium,61,46-60
+Blue,$410,0,106,22-Dec,Q4,2022,"$3,512","$2,517","$1,801",48,Chip ,Bills,$306,38,F,4,Graduate,Single,FL,no,no,no,cellular,Blue-collar,"$16,053",5,71.67,Low Risk,High,61,30-45
+Blue,$480,1,81,22-Dec,Q4,2022,"$1,801",$0,"$5,047",79,Swipe ,Fuel,"$1,262",44,M,1,Graduate,Married,TX,no,yes,no,cellular,Businessman,"$91,373",5,0,Low Risk,Low,61,30-45
+Blue,$340,0,89,22-Dec,Q4,2022,"$5,330","$1,161","$1,441",43,Swipe ,Bills,$418,34,F,1,Graduate,Single,UT,yes,yes,yes,unknown,Selfemployeed,"$14,196",5,21.78,Low Risk,Low,61,30-45
+Blue,$385,1,76,22-Dec,Q4,2022,"$3,176","$2,517","$1,515",36,Swipe ,Fuel,$121,45,F,4,Uneducated,Single,TX,no,yes,no,cellular,Selfemployeed,"$14,975",5,79.25,Low Risk,High,60,30-45
+Blue,$435,0,64,22-Dec,Q4,2022,"$2,691",$811,"$4,413",80,Swipe ,Entertainment,$441,43,M,1,High School,Single,TX,no,no,yes,cellular,Businessman,"$61,205",4,30.14,Low Risk,Medium,60,30-45
+Gold,$95,0,91,22-Dec,Q4,2022,"$4,003","$1,851","$1,476",117,Online ,Travel,"$2,476",35,M,2,Unknown,Married,CA,yes,no,no,cellular,Businessman,"$214,273",5,46.24,Low Risk,Medium,59,30-45
+Blue,$250,1,42,22-Dec,Q4,2022,"$9,959","$2,377","$1,560",39,Swipe ,Entertainment,$374,50,F,1,Graduate,Married,CA,no,no,no,unknown,Selfemployeed,"$14,975",5,23.87,Low Risk,Low,59,46-60
+Blue,$290,0,160,22-Dec,Q4,2022,"$2,302","$1,593","$2,689",49,Swipe ,Food,$161,43,F,2,Graduate,Married,CA,no,no,no,cellular,Selfemployeed,"$31,499",5,69.2,Low Risk,High,59,30-45
+Blue,$125,0,112,22-Dec,Q4,2022,"$8,314","$1,349","$5,028",80,Swipe ,Grocery,"$1,156",36,M,2,Graduate,Unknown,CT,yes,no,no,telephone,Businessman,"$90,657",4,16.23,Low Risk,Low,59,30-45
+Blue,$250,1,110,22-Dec,Q4,2022,"$3,616","$1,054",$687,17,Swipe ,Food,$192,56,F,1,High School,Married,WA,no,no,yes,cellular,Selfemployeed,"$19,250",5,29.15,Low Risk,Low,59,46-60
+Blue,$245,1,110,22-Dec,Q4,2022,"$7,359",$0,"$2,869",43,Chip ,Bills,$717,42,F,4,High School,Single,CA,no,no,no,cellular,Govt,"$33,147",4,0,Low Risk,Low,58,30-45
+Silver,$100,0,114,22-Dec,Q4,2022,"$3,451","$1,433","$1,966",31,Swipe ,Grocery,$433,54,F,2,Uneducated,Single,NY,yes,no,no,unknown,Govt,"$19,367",3,41.52,Low Risk,Medium,58,46-60
+Blue,$440,0,73,22-Dec,Q4,2022,"$2,517",$0,"$3,569",62,Swipe ,Grocery,$857,34,F,3,Graduate,Married,NY,no,no,yes,cellular,Selfemployeed,"$38,928",1,0,High Risk,Low,58,30-45
+Silver,$100,1,83,22-Dec,Q4,2022,"$3,451","$1,118","$7,734",74,Swipe ,Fuel,"$1,237",52,M,3,Graduate,Married,CA,yes,no,no,cellular,Businessman,"$107,387",2,32.4,Low Risk,Medium,57,46-60
+Blue,$405,0,76,22-Dec,Q4,2022,"$1,654",$0,"$1,730",30,Swipe ,Bills,$173,63,F,1,High School,Married,CA,no,no,no,cellular,Selfemployeed,"$14,975",1,0,High Risk,Low,57,60+
+Blue,$125,1,85,22-Dec,Q4,2022,"$3,400","$2,307","$4,742",90,Chip ,Bills,"$1,186",27,M,1,High School,Single,FL,no,no,no,cellular,Selfemployeed,"$76,456",4,67.85,Low Risk,High,57,<30
+Blue,$95,0,139,22-Dec,Q4,2022,"$2,926",$716,"$4,219",78,Swipe ,Grocery,"$1,181",40,M,4,Graduate,Single,TX,no,yes,no,cellular,Retirees,"$53,971",2,24.47,Low Risk,Low,57,30-45
+Blue,$245,1,47,22-Dec,Q4,2022,"$3,065","$1,570","$1,130",28,Swipe ,Bills,$260,27,F,1,High School,Married,TX,no,no,no,unknown,Selfemployeed,"$6,550",1,51.22,High Risk,Medium,57,<30
+Blue,$365,1,80,22-Dec,Q4,2022,"$3,451","$1,440","$7,168",88,Swipe ,Travel,$717,54,M,3,Graduate,Unknown,FL,yes,yes,yes,unknown,White-collar,"$102,076",3,41.73,Low Risk,Medium,57,46-60
+Blue,$125,1,79,22-Dec,Q4,2022,"$6,854",$0,"$4,578",72,Swipe ,Entertainment,"$1,099",37,M,2,Graduate,Single,NY,no,no,no,cellular,White-collar,"$69,382",3,0,Low Risk,Low,56,30-45
+Blue,$410,0,147,22-Dec,Q4,2022,"$3,853",$696,"$2,443",38,Chip ,Grocery,$611,59,F,0,Unknown,Married,CA,no,yes,no,cellular,Govt,"$27,562",5,18.06,Low Risk,Low,56,46-60
+Blue,$100,0,99,22-Dec,Q4,2022,"$7,570","$1,388","$3,849",70,Swipe ,Entertainment,$231,52,F,3,Post-Graduate,Married,CA,no,yes,yes,cellular,Blue-collar,"$43,634",5,18.34,Low Risk,Low,56,46-60
+Blue,$125,1,82,22-Dec,Q4,2022,"$4,402","$1,640","$1,774",46,Swipe ,Entertainment,$195,37,F,0,Unknown,Married,NY,yes,no,no,telephone,Businessman,"$15,553",5,37.26,Low Risk,Medium,55,30-45
+Blue,$300,1,105,22-Dec,Q4,2022,"$4,254","$1,204","$5,385",93,Swipe ,Entertainment,$700,53,M,0,Graduate,Single,NY,yes,no,no,cellular,Businessman,"$98,743",4,28.3,Low Risk,Low,55,46-60
+Blue,$195,1,108,22-Dec,Q4,2022,"$4,426","$1,530","$1,231",34,Swipe ,Bills,$123,50,F,1,Graduate,Single,MN,no,no,no,cellular,Selfemployeed,"$10,425",5,34.57,Low Risk,Medium,55,46-60
+Blue,$455,0,123,22-Dec,Q4,2022,"$1,800","$2,517","$2,030",45,Swipe ,Bills,$365,46,F,2,High School,Unknown,FL,yes,yes,no,telephone,Govt,"$20,428",3,139.83,Low Risk,High,55,46-60
+Blue,$100,1,60,22-Dec,Q4,2022,"$2,192","$1,291","$1,946",37,Swipe ,Entertainment,$311,51,F,0,Unknown,Married,NJ,no,no,no,cellular,Govt,"$18,977",5,58.9,Low Risk,Medium,55,46-60
+Blue,$125,0,72,22-Dec,Q4,2022,"$4,092",$996,"$2,298",48,Swipe ,Fuel,$299,54,F,5,Unknown,Married,NY,no,yes,no,cellular,Retirees,"$25,060",1,24.34,High Risk,Low,55,46-60
+Blue,$460,0,88,22-Dec,Q4,2022,"$5,342","$2,005","$4,738",94,Chip ,Entertainment,"$2,358",53,M,4,Graduate,Married,TX,no,no,no,cellular,Businessman,"$182,464",2,37.53,Low Risk,Medium,55,46-60
+Blue,$300,1,114,22-Dec,Q4,2022,"$8,795","$2,517","$4,552",81,Chip ,Entertainment,$774,46,M,4,Graduate,Single,NY,no,no,yes,cellular,Businessman,"$68,413",1,28.62,High Risk,Low,55,46-60
+Blue,$460,0,84,22-Dec,Q4,2022,"$3,131","$2,379","$2,315",63,Swipe ,Bills,$370,53,F,1,Unknown,Unknown,TX,yes,no,no,cellular,Blue-collar,"$25,533",4,75.98,Low Risk,High,54,46-60
+Blue,$450,1,97,23-Jan,Q1,2023,"$1,053","$1,689","$3,651",69,Chip ,Food,$584,40,F,2,Unknown,Married,FL,no,yes,no,unknown,Govt,"$39,889",2,160.4,Low Risk,High,54,30-45
+Blue,$330,0,116,23-Jan,Q1,2023,"$1,741",$0,"$2,546",42,Swipe ,Grocery,$458,58,F,0,High School,Single,TX,yes,no,no,unknown,Retirees,"$29,513",1,0,High Risk,Low,54,46-60
+Blue,$200,1,69,23-Jan,Q1,2023,"$6,630",$916,$842,24,Swipe ,Bills,$93,42,F,4,Uneducated,Single,TX,no,yes,no,telephone,Selfemployeed,"$92,565",5,13.82,Low Risk,Low,54,30-45
+Blue,$430,0,157,23-Jan,Q1,2023,"$2,022",$0,"$4,623",65,Chip ,Entertainment,$925,40,M,3,Unknown,Married,CA,no,no,no,cellular,Govt,"$71,574",3,0,Low Risk,Low,54,30-45
+Blue,$285,1,154,23-Jan,Q1,2023,"$5,095",$0,"$3,808",89,Chip ,Grocery,$724,50,M,2,Post-Graduate,Single,TX,no,yes,no,cellular,Selfemployeed,"$42,529",5,0,Low Risk,Low,54,46-60
+Blue,$345,1,70,23-Jan,Q1,2023,"$3,347","$2,517","$4,719",70,Swipe ,Fuel,$566,39,M,2,Uneducated,Single,NY,no,yes,no,cellular,Govt,"$75,342",3,75.2,Low Risk,High,54,30-45
+Blue,$490,0,86,23-Jan,Q1,2023,"$5,293","$1,236","$4,572",90,Swipe ,Fuel,$366,60,M,2,Graduate,Married,NJ,yes,yes,no,cellular,Businessman,"$69,112",5,23.35,Low Risk,Low,54,46-60
+Blue,$300,1,99,23-Jan,Q1,2023,"$2,799",$0,"$2,311",43,Swipe ,Bills,$185,57,F,3,Unknown,Single,FL,yes,no,no,unknown,White-collar,"$25,381",5,0,Low Risk,Low,54,46-60
+Blue,$340,0,63,23-Jan,Q1,2023,"$7,191",$0,"$1,654",30,Chip ,Food,$314,43,F,4,Graduate,Single,CA,no,no,no,telephone,Selfemployeed,"$14,975",3,0,Low Risk,Low,54,30-45
+Blue,$300,0,117,23-Jan,Q1,2023,"$2,904","$2,203","$3,848",66,Chip ,Fuel,$385,51,F,3,Graduate,Single,CA,yes,yes,yes,cellular,Blue-collar,"$43,601",4,75.86,Low Risk,High,54,46-60
+Blue,$125,1,83,23-Jan,Q1,2023,"$3,136","$2,138","$4,930",80,Swipe ,Fuel,$887,46,M,3,Unknown,Married,TX,yes,yes,no,cellular,Govt,"$86,242",4,68.18,Low Risk,High,53,46-60
+Blue,$175,0,143,23-Jan,Q1,2023,"$3,187","$1,937","$5,111",90,Swipe ,Food,$664,40,M,3,Graduate,Married,CA,no,yes,no,cellular,Blue-collar,"$93,722",4,60.78,Low Risk,High,53,30-45
+Blue,$100,1,114,23-Jan,Q1,2023,"$1,211","$1,379","$3,964",90,Swipe ,Bills,$317,56,M,2,Unknown,Single,CA,yes,no,no,cellular,Govt,"$46,277",3,113.87,Low Risk,High,53,46-60
+Gold,$150,0,102,23-Jan,Q1,2023,"$1,526","$1,109","$1,542",125,Chip ,Travel,"$2,316",51,M,2,Uneducated,Single,NY,no,no,no,cellular,Businessman,"$213,177",1,72.67,High Risk,High,53,46-60
+Blue,$300,1,93,23-Jan,Q1,2023,"$2,303","$1,992","$2,514",32,Swipe ,Grocery,$176,30,F,1,Graduate,Single,TX,no,yes,no,unknown,Businessman,"$28,914",2,86.5,Low Risk,High,53,30-45
+Blue,$150,1,70,23-Jan,Q1,2023,"$4,514","$2,016","$4,107",59,Swipe ,Entertainment,"$1,068",48,F,2,Graduate,Married,CA,no,yes,no,cellular,Selfemployeed,"$50,462",1,44.66,High Risk,Medium,53,46-60
+Blue,$150,0,84,23-Jan,Q1,2023,"$3,454","$1,200","$1,313",30,Swipe ,Travel,$197,46,F,4,Unknown,Single,TX,no,yes,no,telephone,Selfemployeed,"$19,725",4,34.74,Low Risk,Medium,53,46-60
+Blue,$475,1,46,23-Jan,Q1,2023,"$8,167","$1,740","$2,141",51,Swipe ,Bills,$578,44,F,4,Unknown,Single,NY,no,yes,yes,cellular,Businessman,"$22,353",2,21.31,Low Risk,Low,53,30-45
+Blue,$490,1,103,23-Jan,Q1,2023,"$4,623","$1,366","$1,430",118,Swipe ,Grocery,"$4,124",37,M,2,High School,Unknown,NY,no,no,no,cellular,Businessman,"$181,915",1,29.55,High Risk,Low,52,30-45
+Blue,$395,1,44,23-Jan,Q1,2023,"$2,800","$1,834","$1,591",36,Swipe ,Bills,$361,34,F,1,Graduate,Single,NY,no,yes,no,unknown,Selfemployeed,"$14,975",4,65.5,Low Risk,High,52,30-45
+Blue,$245,0,114,23-Jan,Q1,2023,"$2,404","$1,887","$4,489",75,Chip ,Bills,$628,30,M,1,Graduate,Single,CA,no,yes,no,cellular,Retirees,"$64,991",4,78.49,Low Risk,High,52,30-45
+Blue,$125,1,117,23-Jan,Q1,2023,"$2,248",$0,"$4,439",77,Swipe ,Grocery,$355,47,M,2,Graduate,Married,TX,yes,yes,no,telephone,Selfemployeed,"$62,659",3,0,Low Risk,Low,52,46-60
+Blue,$415,0,128,23-Jan,Q1,2023,"$7,234","$2,055","$5,051",83,Swipe ,Bills,"$1,364",39,M,5,Unknown,Married,NY,yes,no,no,cellular,Govt,"$91,460",3,28.41,Low Risk,Low,52,30-45
+Blue,$125,0,78,23-Jan,Q1,2023,"$1,603",$0,"$3,048",70,Swipe ,Entertainment,$884,45,F,2,Graduate,Single,CA,yes,no,no,cellular,Selfemployeed,"$34,412",4,0,Low Risk,Low,52,30-45
+Blue,$300,1,86,23-Jan,Q1,2023,"$5,638",$808,"$2,036",50,Swipe ,Entertainment,$244,40,F,5,High School,Married,CA,no,yes,no,unknown,Retirees,"$20,517",4,14.33,Low Risk,Low,52,30-45
+Blue,$125,0,68,23-Jan,Q1,2023,"$2,642","$2,035","$1,761",42,Swipe ,Entertainment,$141,44,F,3,Graduate,Married,TX,no,yes,no,cellular,Govt,"$515,324",3,77.02,Low Risk,High,52,30-45
+Blue,$200,1,137,23-Jan,Q1,2023,"$8,404","$1,498","$4,811",56,Swipe ,Fuel,$770,49,M,5,Graduate,Married,TX,yes,yes,no,cellular,Blue-collar,"$79,307",5,17.82,Low Risk,Low,52,46-60
+Blue,$150,0,97,23-Jan,Q1,2023,"$1,880","$2,517","$1,575",23,Chip ,Food,$457,54,F,2,Graduate,Married,TX,yes,no,no,unknown,Selfemployeed,"$154,975",5,133.88,Low Risk,High,52,46-60
+Gold,$270,0,116,23-Jan,Q1,2023,"$8,416","$1,549","$1,388",124,Chip ,Travel,"$3,077",57,M,3,High School,Married,NY,yes,no,no,unknown,White-collar,"$148,310",4,18.41,Low Risk,Low,52,46-60
+Blue,$250,1,90,23-Jan,Q1,2023,"$6,275","$1,579","$1,585",43,Swipe ,Entertainment,$143,49,F,4,Doctorate,Married,NY,no,no,no,telephone,Selfemployeed,"$14,975",5,25.16,Low Risk,Low,52,46-60
+Blue,$270,1,84,23-Jan,Q1,2023,"$3,791","$1,648","$2,058",34,Online ,Bills,$556,55,F,2,Graduate,Married,FL,no,no,no,cellular,White-collar,"$20,859",4,43.47,Low Risk,Medium,52,46-60
+Blue,$405,1,108,23-Feb,Q1,2023,"$1,765","$1,720","$1,693",120,Chip ,Fuel,"$3,910",33,M,3,High School,Married,FL,no,no,no,cellular,Businessman,"$232,857",4,97.45,Low Risk,High,52,30-45
+Blue,$245,0,83,23-Feb,Q1,2023,"$2,449","$2,517","$7,667",84,Swipe ,Entertainment,"$1,687",33,M,4,Uneducated,Married,NY,yes,yes,no,unknown,Govt,"$106,036",4,102.78,Low Risk,High,52,30-45
+Blue,$125,1,75,23-Feb,Q1,2023,"$1,370",$813,"$2,511",40,Swipe ,Food,$728,53,F,2,Unknown,Single,TX,no,no,no,cellular,Retirees,"$28,815",5,59.34,Low Risk,Medium,52,46-60
+Blue,$250,1,79,23-Feb,Q1,2023,"$2,885","$1,895","$1,366",31,Swipe ,Bills,$232,27,F,1,Uneducated,Unknown,NY,no,no,no,unknown,Blue-collar,"$12,519",5,65.68,Low Risk,High,52,<30
+Blue,$385,1,71,23-Feb,Q1,2023,"$2,116",$735,"$3,343",60,Online ,Grocery,$334,38,F,2,Unknown,Single,NV,yes,yes,no,unknown,Blue-collar,"$36,543",1,34.74,High Risk,Medium,52,30-45
+Blue,$150,0,96,23-Feb,Q1,2023,"$7,081","$1,874","$2,249",47,Swipe ,Fuel,$292,41,F,2,Unknown,Single,TX,yes,yes,no,cellular,Govt,"$24,181",2,26.47,Low Risk,Low,52,30-45
+Blue,$355,1,120,23-Feb,Q1,2023,"$3,383","$1,688","$1,721",56,Swipe ,Entertainment,$344,48,F,3,Doctorate,Married,CA,no,no,no,unknown,Selfemployeed,"$14,975",1,49.9,High Risk,Medium,52,46-60
+Blue,$200,1,161,23-Feb,Q1,2023,"$2,201",$651,"$3,165",65,Online ,Entertainment,$190,52,F,1,Graduate,Married,NY,no,no,no,cellular,White-collar,"$35,247",4,29.58,Low Risk,Low,52,46-60
+Blue,$440,0,102,23-Feb,Q1,2023,"$6,130","$1,741","$4,264",63,Swipe ,Fuel,"$1,237",59,M,1,Uneducated,Single,FL,no,yes,no,cellular,Govt,"$55,730",2,28.4,Low Risk,Low,52,46-60
+Blue,$385,1,151,23-Feb,Q1,2023,"$2,374","$1,509","$4,231",60,Chip ,Travel,$677,49,F,4,High School,Unknown,NY,yes,yes,no,cellular,Retirees,"$54,460",1,63.56,High Risk,High,52,46-60
+Blue,$415,1,115,23-Feb,Q1,2023,"$2,169",$0,"$3,906",87,Swipe ,Food,$234,50,M,3,Unknown,Single,CA,yes,yes,yes,cellular,White-collar,"$44,934",4,0,Low Risk,Low,52,46-60
+Blue,$455,1,142,23-Feb,Q1,2023,"$2,632","$1,480","$4,787",89,Swipe ,Food,"$1,149",55,M,1,Uneducated,Single,NY,no,no,no,telephone,Govt,"$78,354",5,56.23,Low Risk,Medium,51,46-60
+Blue,$320,1,83,23-Feb,Q1,2023,"$2,257",$896,"$4,618",94,Swipe ,Food,$462,43,M,5,Unknown,Married,NY,no,yes,no,cellular,White-collar,"$71,289",3,39.7,Low Risk,Medium,51,30-45
+Gold,$470,0,148,23-Feb,Q1,2023,"$3,516","$1,342","$7,283",89,Swipe ,Bills,"$1,894",56,M,1,Graduate,Married,NY,yes,no,no,cellular,Businessman,"$102,444",5,38.17,Low Risk,Medium,51,46-60
+Blue,$250,0,87,23-Feb,Q1,2023,"$7,357","$1,069","$3,943",64,Chip ,Food,$828,65,M,1,Unknown,Married,NY,yes,yes,no,cellular,White-collar,"$45,780",4,14.53,Low Risk,Low,51,60+
+Blue,$140,0,77,23-Feb,Q1,2023,"$2,543",$0,"$1,874",42,Chip ,Fuel,$450,37,F,2,Uneducated,Married,NY,yes,yes,no,cellular,Selfemployeed,"$17,553",5,0,Low Risk,Low,51,30-45
+Silver,$110,1,97,23-Feb,Q1,2023,"$4,516",$802,"$1,823",27,Swipe ,Grocery,$255,51,F,2,Graduate,Married,NY,no,yes,yes,cellular,Retirees,"$16,510",4,17.76,Low Risk,Low,51,46-60
+Blue,$370,0,151,23-Feb,Q1,2023,"$3,144","$2,216","$4,717",75,Chip ,Travel,"$1,179",57,M,1,Graduate,Married,CA,yes,no,no,telephone,White-collar,"$75,291",3,70.48,Low Risk,High,50,46-60
+Blue,$125,0,80,23-Feb,Q1,2023,"$1,467",$896,"$1,731",54,Swipe ,Entertainment,$138,44,F,3,Graduate,Married,CA,no,yes,yes,unknown,Selfemployeed,"$14,975",4,61.08,Low Risk,High,50,30-45
+Blue,$390,1,119,23-Feb,Q1,2023,"$2,516","$1,363","$2,317",38,Swipe ,Bills,$510,44,F,1,Graduate,Married,TX,no,yes,no,cellular,White-collar,"$25,573",5,54.17,Low Risk,Medium,49,30-45
+Blue,$460,0,95,23-Feb,Q1,2023,"$3,011","$2,138","$4,439",75,Chip ,Fuel,"$1,199",52,M,2,High School,Married,NJ,yes,no,no,cellular,Businessman,"$62,633",4,71.01,Low Risk,High,49,46-60
+Blue,$340,1,78,23-Feb,Q1,2023,"$3,797","$1,202","$4,191",65,Swipe ,Grocery,"$1,090",33,F,4,Graduate,Married,CA,no,no,no,cellular,Blue-collar,"$53,007",1,31.66,High Risk,Medium,49,30-45
+Silver,$175,1,85,23-Feb,Q1,2023,"$1,304","$2,517","$1,756",33,Swipe ,Travel,$404,29,M,1,Graduate,Married,TX,yes,yes,no,unknown,Businessman,"$15,099",2,193.02,Low Risk,High,49,<30
+Blue,$140,1,66,23-Feb,Q1,2023,"$3,261",$814,"$4,739",89,Chip ,Entertainment,"$1,090",37,M,1,Doctorate,Unknown,FL,no,yes,no,cellular,Govt,"$76,303",1,24.96,High Risk,Low,49,30-45
+Blue,$175,0,95,23-Feb,Q1,2023,"$4,063",$0,"$7,463",70,Chip ,Fuel,"$1,493",54,M,1,High School,Married,FL,no,yes,no,cellular,Govt,"$103,784",4,0,Low Risk,Low,49,46-60
+Blue,$125,1,74,23-Feb,Q1,2023,"$8,074","$2,426","$5,372",93,Swipe ,Grocery,$698,43,M,2,Doctorate,Single,FL,no,yes,no,cellular,Retirees,"$98,665",2,30.05,Low Risk,Medium,49,30-45
+Gold,$370,1,87,23-Feb,Q1,2023,"$3,416",$0,"$1,595",102,Chip ,Travel,"$1,208",50,M,4,Graduate,Single,FL,yes,no,no,cellular,Businessman,"$199,776",1,0,High Risk,Low,49,46-60
+Blue,$405,1,80,23-Feb,Q1,2023,"$1,677",$0,"$2,437",41,Chip ,Grocery,$463,44,F,3,Uneducated,Married,FL,yes,no,no,telephone,Businessman,"$27,467",5,0,Low Risk,Low,49,30-45
+Blue,$150,1,51,23-Mar,Q1,2023,"$2,498","$2,258","$1,839",29,Swipe ,Fuel,$202,62,F,1,Post-Graduate,Married,NJ,yes,yes,no,telephone,Blue-collar,"$16,745",4,90.39,Low Risk,High,49,60+
+Blue,$140,0,100,23-Mar,Q1,2023,"$7,128","$1,457","$3,534",70,Chip ,Entertainment,$742,40,F,3,Uneducated,Unknown,NY,no,no,no,cellular,Businessman,"$38,450",4,20.44,Low Risk,Low,49,30-45
+Blue,$405,0,46,23-Mar,Q1,2023,"$1,427",$0,"$1,337",27,Swipe ,Grocery,$374,44,F,0,Unknown,Married,TX,yes,yes,no,cellular,Blue-collar,"$12,107",3,0,Low Risk,Low,49,30-45
+Blue,$470,1,95,23-Mar,Q1,2023,"$3,085",$966,"$4,765",79,Swipe ,Entertainment,$905,51,M,3,Unknown,Single,TX,yes,no,yes,telephone,Blue-collar,"$77,365",4,31.31,Low Risk,Medium,49,46-60
+Silver,$355,1,119,23-Mar,Q1,2023,"$3,535","$1,722","$1,578",116,Swipe ,Bills,"$3,935",45,M,4,Unknown,Married,FL,no,no,no,cellular,Businessman,"$222,259",5,48.71,Low Risk,Medium,48,30-45
+Blue,$150,1,112,23-Mar,Q1,2023,"$7,475","$1,473","$1,592",30,Swipe ,Entertainment,$111,44,F,4,Graduate,Married,TX,yes,no,no,cellular,Selfemployeed,"$14,975",5,19.71,Low Risk,Low,48,30-45
+Blue,$340,1,109,23-Mar,Q1,2023,"$2,465","$1,999","$1,544",36,Swipe ,Fuel,$154,43,F,3,High School,Married,TX,no,yes,no,cellular,Selfemployeed,"$14,975",5,81.1,Low Risk,High,48,30-45
+Blue,$125,1,107,23-Mar,Q1,2023,"$4,752","$1,230","$1,678",103,Chip ,Travel,"$2,038",59,M,0,High School,Single,NY,yes,no,no,cellular,Businessman,"$221,178",5,25.88,Low Risk,Low,48,46-60
+Blue,$125,1,118,23-Mar,Q1,2023,"$2,338","$1,566","$3,964",69,Chip ,Bills,"$1,031",52,M,2,High School,Single,CA,no,no,no,cellular,Selfemployeed,"$46,225",3,66.98,Low Risk,High,48,46-60
+Blue,$430,0,128,23-Mar,Q1,2023,"$1,470","$1,900","$4,221",83,Swipe ,Entertainment,"$1,055",35,M,3,Doctorate,Single,NJ,no,yes,no,cellular,Govt,"$54,111",1,129.25,High Risk,High,48,30-45
+Blue,$325,0,89,23-Mar,Q1,2023,"$2,711","$1,793","$5,084",79,Swipe ,Entertainment,"$1,322",57,M,5,High School,Married,FL,yes,no,no,cellular,White-collar,"$92,447",2,66.14,Low Risk,High,48,46-60
+Blue,$390,0,116,23-Mar,Q1,2023,"$5,479","$1,200","$7,960",86,Swipe ,Food,"$1,433",38,M,5,Unknown,Married,TX,yes,yes,no,cellular,Businessman,"$109,333",1,21.9,High Risk,Low,48,30-45
+Silver,$350,1,95,23-Mar,Q1,2023,"$3,416","$1,298","$1,906",39,Swipe ,Bills,$477,38,F,3,Graduate,Married,CA,no,no,no,cellular,Blue-collar,"$18,244",4,38,Low Risk,Medium,48,30-45
+Blue,$150,1,111,23-Mar,Q1,2023,"$2,826","$2,070","$1,625",28,Swipe ,Travel,$82,33,F,2,Doctorate,Single,NJ,no,no,no,unknown,Selfemployeed,"$55,525",2,73.25,Low Risk,High,48,30-45
+Blue,$100,1,150,23-Mar,Q1,2023,"$4,945",$0,"$2,743",69,Swipe ,Bills,$795,43,F,3,Uneducated,Unknown,TX,yes,no,no,cellular,Retirees,"$32,062",1,0,High Risk,Low,48,30-45
+Blue,$245,1,103,23-Mar,Q1,2023,"$1,438",$0,"$2,075",66,Swipe ,Bills,$249,43,F,3,Unknown,Married,CA,yes,no,no,unknown,Blue-collar,"$21,194",4,0,Low Risk,Low,48,30-45
+Blue,$175,1,98,23-Mar,Q1,2023,"$8,571","$1,616","$1,397",28,Online ,Entertainment,$349,38,F,2,Graduate,Single,CA,yes,no,no,cellular,Blue-collar,"$13,255",5,18.85,Low Risk,Low,48,30-45
+Blue,$125,1,80,23-Mar,Q1,2023,"$3,673","$2,292",$657,34,Swipe ,Travel,$151,44,F,3,High School,Unknown,CA,no,yes,no,cellular,Blue-collar,"$10,713",5,62.4,Low Risk,High,48,30-45
+Silver,$125,1,109,23-Mar,Q1,2023,"$1,577","$1,227","$3,818",81,Swipe ,Entertainment,$535,37,F,1,Graduate,Unknown,FL,yes,no,no,unknown,Govt,"$42,733",3,77.81,Low Risk,High,48,30-45
+Blue,$495,1,105,23-Mar,Q1,2023,"$4,206","$1,100","$1,144",22,Swipe ,Bills,$137,53,F,2,High School,Married,TX,yes,no,no,cellular,Selfemployeed,"$57,865",5,26.15,Low Risk,Low,48,46-60
+Blue,$430,1,167,23-Mar,Q1,2023,"$2,192","$1,569","$4,010",79,Swipe ,Fuel,$722,49,M,3,High School,Unknown,FL,yes,yes,no,cellular,Retirees,"$47,502",4,71.58,Low Risk,High,48,46-60
+Blue,$190,1,100,23-Mar,Q1,2023,"$7,050","$1,008","$2,176",39,Chip ,Food,$131,45,F,5,Uneducated,Unknown,FL,no,no,no,cellular,Blue-collar,"$22,975",5,14.3,Low Risk,Low,48,30-45
+Silver,$445,1,101,23-Mar,Q1,2023,"$2,405","$1,540","$1,587",29,Swipe ,Bills,$217,40,F,1,Graduate,Married,CA,no,yes,no,telephone,Selfemployeed,"$15,525",4,64.03,Low Risk,High,48,30-45
+Silver,$225,0,111,23-Mar,Q1,2023,"$3,516","$1,588","$7,512",81,Swipe ,Grocery,"$1,578",35,M,3,Graduate,Unknown,TX,yes,yes,yes,cellular,White-collar,"$104,473",4,45.16,Low Risk,Medium,48,30-45
+Blue,$430,1,115,23-Mar,Q1,2023,"$6,443","$2,073","$9,277",92,Swipe ,Fuel,"$1,206",37,M,2,High School,Married,FL,no,yes,no,cellular,White-collar,"$118,417",4,32.17,Low Risk,Medium,47,30-45
+Blue,$225,1,101,23-Mar,Q1,2023,"$1,621",$0,"$7,400",86,Swipe ,Grocery,$740,45,M,3,Graduate,Single,VA,no,no,yes,cellular,Blue-collar,"$103,488",4,0,Low Risk,Low,47,30-45
+Blue,$475,1,112,23-Mar,Q1,2023,"$2,307","$1,990","$2,650",65,Swipe ,Bills,$583,40,F,4,Uneducated,Single,CA,no,no,no,cellular,Businessman,"$31,191",5,86.26,Low Risk,High,46,30-45
+Blue,$455,1,41,23-Mar,Q1,2023,"$4,597","$2,442",$784,38,Online ,Entertainment,$241,44,F,2,Graduate,Married,NJ,no,no,no,cellular,Selfemployeed,"$14,975",4,53.12,Low Risk,Medium,46,30-45
+Blue,$410,0,73,23-Mar,Q1,2023,"$6,228","$1,738","$8,284",77,Swipe ,Fuel,"$1,822",44,M,4,Graduate,Single,TX,no,yes,yes,unknown,Govt,"$112,879",5,27.91,Low Risk,Low,46,30-45
+Blue,$100,0,72,23-Mar,Q1,2023,"$1,438",$0,"$4,928",84,Online ,Grocery,$788,38,M,1,High School,Married,NJ,no,no,no,cellular,Businessman,"$86,104",5,0,Low Risk,Low,45,30-45
+Silver,$100,1,150,23-Mar,Q1,2023,"$3,516","$2,052","$3,510",62,Swipe ,Grocery,$772,44,F,1,Graduate,Married,CA,yes,no,no,cellular,Retirees,"$138,163",4,58.36,Low Risk,Medium,45,30-45
+Blue,$475,1,99,23-Apr,Q2,2023,"$3,807","$2,517","$1,939",36,Swipe ,Entertainment,$504,52,F,1,Graduate,Single,NJ,yes,no,no,unknown,Selfemployeed,"$14,975",5,66.12,Low Risk,High,45,46-60
+Blue,$275,0,99,23-Apr,Q2,2023,"$1,548",$0,"$7,781",72,Swipe ,Food,"$1,167",36,M,2,Unknown,Single,CA,yes,no,no,cellular,White-collar,"$107,853",5,0,Low Risk,Low,45,30-45
+Blue,$245,1,74,23-Apr,Q2,2023,"$2,769",$901,"$1,835",43,Chip ,Fuel,$202,58,F,2,Graduate,Married,FL,no,yes,no,cellular,Retirees,"$16,680",5,32.54,Low Risk,Medium,45,46-60
+Blue,$356,0,61,23-Apr,Q2,2023,"$7,530",$0,"$1,609",29,Chip ,Food,$325,45,F,4,Graduate,Single,CA,no,no,no,telephone,Selfemployeed,"$15,490",3,0,Low Risk,Low,45,30-45
+Blue,$441,0,62,23-Apr,Q2,2023,"$2,848",$724,"$4,622",79,Swipe ,Entertainment,$458,46,M,1,High School,Single,TX,no,no,yes,cellular,Businessman,"$60,670",4,25.42,Low Risk,Low,45,46-60
+Blue,$211,1,74,23-Apr,Q2,2023,"$9,640","$1,603","$1,497",99,Swipe ,Entertainment,"$3,726",57,M,4,Graduate,Married,TX,no,yes,no,cellular,Businessman,"$185,445",2,16.63,Low Risk,Low,44,46-60
+Blue,$461,1,75,23-Apr,Q2,2023,"$1,572",$0,"$2,324",44,Swipe ,Food,$408,29,M,0,High School,Single,TX,no,yes,yes,unknown,Selfemployeed,"$25,507",4,0,Low Risk,Low,44,<30
+Blue,$100,1,62,23-Apr,Q2,2023,"$2,311","$1,295","$2,106",40,Swipe ,Entertainment,$279,47,F,0,Unknown,Married,NJ,no,no,no,cellular,Govt,"$20,659",5,56.04,Low Risk,Medium,43,46-60
+Blue,$131,1,118,23-Apr,Q2,2023,"$2,297",$0,"$4,474",72,Swipe ,Grocery,$342,42,M,2,Graduate,Married,TX,yes,yes,no,telephone,Selfemployeed,"$57,405",3,0,Low Risk,Low,43,30-45
+Blue,$422,0,72,23-Apr,Q2,2023,"$2,512",$0,"$3,654",59,Swipe ,Grocery,$817,36,F,3,Graduate,Married,NY,no,no,yes,cellular,Selfemployeed,"$34,146",1,0,High Risk,Low,43,30-45
+Blue,$117,1,58,23-Apr,Q2,2023,"$2,630","$1,581","$4,682",85,Swipe ,Bills,$656,33,M,3,High School,Married,MN,no,no,no,cellular,Blue-collar,"$65,641",5,60.11,Low Risk,High,42,30-45
+Blue,$310,1,104,23-Apr,Q2,2023,"$2,627","$1,838","$1,559",37,Swipe ,Fuel,$157,43,F,3,High School,Married,TX,no,yes,no,cellular,Selfemployeed,"$15,209",5,69.97,Low Risk,High,42,30-45
+Blue,$337,0,118,23-Apr,Q2,2023,"$2,400",$724,"$2,527",53,Swipe ,Entertainment,$464,43,F,3,Graduate,Married,TX,no,no,yes,cellular,Selfemployeed,"$33,103",1,30.17,High Risk,Medium,42,30-45
+Blue,$430,0,81,23-Apr,Q2,2023,"$5,999","$1,602","$8,502",80,Swipe ,Fuel,"$1,901",45,M,4,Graduate,Single,TX,no,yes,yes,unknown,Govt,"$110,227",5,26.7,Low Risk,Low,41,30-45
+Blue,$489,1,45,23-Apr,Q2,2023,"$7,520","$1,641","$2,318",54,Swipe ,Bills,$552,44,F,4,Unknown,Single,NY,no,yes,yes,cellular,Businessman,"$23,079",2,21.82,Low Risk,Low,40,30-45
+Blue,$414,1,110,23-Apr,Q2,2023,"$1,321","$1,797","$1,543",123,Chip ,Fuel,"$3,885",32,M,3,High School,Married,FL,no,no,no,cellular,Businessman,"$225,243",4,136.03,Low Risk,High,39,30-45
+Silver,$101,1,80,23-Apr,Q2,2023,"$3,578","$1,259","$7,886",74,Swipe ,Fuel,"$1,187",51,M,3,Graduate,Married,CA,yes,no,no,cellular,Businessman,"$104,781",2,35.19,Low Risk,Medium,39,46-60
+Blue,$394,1,99,23-Apr,Q2,2023,"$1,093","$1,690","$3,899",69,Chip ,Food,$577,41,F,2,Unknown,Married,FL,no,yes,no,unknown,Govt,"$40,068",2,154.62,Low Risk,High,39,30-45
+Blue,$328,1,75,23-Apr,Q2,2023,"$2,409",$880,"$4,606",97,Swipe ,Food,$445,46,M,5,Unknown,Married,NY,no,yes,no,cellular,White-collar,"$69,513",3,36.53,Low Risk,Medium,39,46-60
+Blue,$483,0,96,23-Apr,Q2,2023,"$2,927","$2,216","$4,326",78,Chip ,Fuel,"$1,146",51,M,2,High School,Married,NJ,yes,no,no,cellular,Businessman,"$65,948",4,75.71,Low Risk,High,39,46-60
+Blue,$188,1,120,23-Apr,Q2,2023,"$4,352","$1,668","$1,216",36,Swipe ,Bills,$133,51,F,1,Graduate,Single,MN,no,no,no,cellular,Selfemployeed,"$10,404",5,38.33,Low Risk,Medium,39,46-60
+Blue,$110,0,76,23-Apr,Q2,2023,"$1,459",$918,"$1,741",52,Swipe ,Entertainment,$138,42,F,3,Graduate,Married,CA,no,yes,yes,unknown,Selfemployeed,"$13,606",4,62.92,Low Risk,High,39,30-45
+Silver,$453,1,101,23-Apr,Q2,2023,"$2,394","$1,474","$1,471",30,Swipe ,Bills,$208,42,F,1,Graduate,Married,CA,no,yes,no,telephone,Selfemployeed,"$15,793",4,61.57,Low Risk,High,38,30-45
+Blue,$172,1,71,23-Apr,Q2,2023,"$1,262",$0,"$1,556",54,Swipe ,Bills,$102,44,F,3,Graduate,Married,CA,yes,no,no,cellular,Selfemployeed,"$13,530",4,0,Low Risk,Low,38,30-45
+Blue,$203,0,40,23-Apr,Q2,2023,"$2,132","$1,790","$1,887",38,Swipe ,Fuel,$154,43,F,3,Unknown,Married,CA,yes,no,yes,cellular,Selfemployeed,"$15,367",5,83.96,Low Risk,High,38,30-45
+Blue,$464,0,82,23-Apr,Q2,2023,"$5,673","$2,024","$1,581",99,Chip ,Entertainment,"$2,405",53,M,4,Graduate,Married,TX,no,no,no,cellular,Businessman,"$177,428",2,35.68,Low Risk,Medium,37,46-60
+Blue,$158,1,120,23-Apr,Q2,2023,"$7,833","$1,480","$1,513",29,Swipe ,Entertainment,$103,46,F,4,Graduate,Married,TX,yes,no,no,cellular,Selfemployeed,"$14,508",5,18.89,Low Risk,Low,37,46-60
+Blue,$423,1,101,23-Apr,Q2,2023,"$8,024","$1,584","$1,576",121,Chip ,Fuel,"$3,932",34,M,3,High School,Married,FL,no,no,no,cellular,Businessman,"$234,475",4,19.74,Low Risk,Low,37,30-45
+Blue,$204,0,78,23-Apr,Q2,2023,"$3,264","$1,805","$9,687",25,Swipe ,Travel,$232,44,F,3,Doctorate,Married,NJ,no,no,no,unknown,Blue-collar,"$150,352",1,55.3,High Risk,Medium,37,30-45
+Blue,$353,1,82,23-Apr,Q2,2023,"$3,341","$1,373","$7,086",84,Swipe ,Travel,$659,52,M,3,Graduate,Unknown,FL,yes,yes,yes,unknown,White-collar,"$102,591",3,41.1,Low Risk,Medium,37,46-60
+Blue,$327,1,77,23-May,Q2,2023,"$3,404","$1,101","$4,171",68,Swipe ,Grocery,"$1,095",32,F,4,Graduate,Married,CA,no,no,no,cellular,Blue-collar,"$54,356",1,32.34,High Risk,Medium,36,30-45
+Blue,$102,0,96,23-May,Q2,2023,"$6,883","$1,521","$3,680",73,Swipe ,Entertainment,$217,50,F,3,Post-Graduate,Married,CA,no,yes,yes,cellular,Blue-collar,"$40,898",5,22.1,Low Risk,Low,36,46-60
+Blue,$135,1,111,23-May,Q2,2023,"$2,235","$1,574","$3,794",66,Chip ,Bills,"$1,046",50,M,2,High School,Single,CA,no,no,no,cellular,Selfemployeed,"$46,927",3,70.43,Low Risk,High,35,46-60
+Blue,$410,1,154,23-May,Q2,2023,"$5,222","$1,548","$1,230",120,Chip ,Food,"$2,403",49,M,3,Uneducated,Single,NY,no,no,no,cellular,White-collar,"$132,843",3,29.64,Low Risk,Low,35,46-60
+Blue,$343,0,123,23-May,Q2,2023,"$2,302",$691,"$2,848",51,Swipe ,Entertainment,$457,44,F,3,Graduate,Married,TX,no,no,yes,cellular,Selfemployeed,"$32,952",1,30.02,High Risk,Medium,35,30-45
+Blue,$305,1,100,23-May,Q2,2023,"$2,171","$2,060","$2,368",31,Swipe ,Grocery,$197,30,F,1,Graduate,Single,TX,no,yes,no,unknown,Businessman,"$29,543",2,94.89,Low Risk,High,34,30-45
+Blue,$322,1,111,23-May,Q2,2023,"$2,871","$1,577","$4,455",91,Swipe ,Entertainment,$274,54,M,3,High School,Single,NY,no,no,no,cellular,Businessman,"$61,567",4,54.93,Low Risk,Medium,34,46-60
+Blue,$266,1,87,23-May,Q2,2023,"$1,634",$0,"$2,293",41,Swipe ,Bills,$610,46,M,2,High School,Single,TX,no,yes,no,cellular,Blue-collar,"$25,698",5,0,Low Risk,Low,34,46-60
+Blue,$415,1,45,23-May,Q2,2023,"$4,570","$2,259","$1,781",36,Online ,Entertainment,$247,40,F,2,Graduate,Married,NJ,no,no,no,cellular,Selfemployeed,"$13,865",4,49.43,Low Risk,Medium,34,30-45
+Blue,$438,0,108,23-May,Q2,2023,"$6,317","$1,791","$4,159",64,Swipe ,Fuel,"$1,211",57,M,1,Uneducated,Single,FL,no,yes,no,cellular,Govt,"$57,157",2,28.35,Low Risk,Low,34,46-60
+Blue,$190,1,71,23-May,Q2,2023,"$2,299",$997,"$2,828",40,Swipe ,Fuel,$425,48,F,2,Graduate,Single,FL,no,yes,no,cellular,White-collar,"$27,480",3,43.37,Low Risk,Medium,34,46-60
+Blue,$309,1,104,23-May,Q2,2023,"$8,804","$1,322","$7,499",84,Swipe ,Grocery,$440,37,M,3,Graduate,Married,FL,no,yes,no,cellular,Businessman,"$111,300",5,15.02,Low Risk,Low,34,30-45
+Blue,$460,0,96,23-May,Q2,2023,"$3,127","$2,103","$4,528",78,Chip ,Fuel,"$1,243",50,M,2,High School,Married,NJ,yes,no,no,cellular,Businessman,"$64,502",4,67.25,Low Risk,High,34,46-60
+Blue,$169,1,96,23-May,Q2,2023,"$5,717",$0,"$4,033",73,Swipe ,Fuel,$688,64,F,0,High School,Unknown,NY,yes,no,no,cellular,Selfemployeed,"$56,260",2,0,Low Risk,Low,34,60+
+Gold,$99,0,89,23-May,Q2,2023,"$4,130","$1,972","$1,578",126,Online ,Travel,"$2,235",33,M,2,Unknown,Married,CA,yes,no,no,cellular,Businessman,"$204,845",5,47.75,Low Risk,Medium,34,30-45
+Blue,$428,1,96,23-May,Q2,2023,"$1,034","$1,719","$3,995",70,Chip ,Food,$571,37,F,2,Unknown,Married,FL,no,yes,no,unknown,Govt,"$36,915",2,166.25,Low Risk,High,34,30-45
+Blue,$242,1,100,23-May,Q2,2023,"$1,737",$0,"$7,860",77,Swipe ,Grocery,$748,42,M,3,Graduate,Single,VA,no,no,yes,cellular,Blue-collar,"$105,526",4,0,Low Risk,Low,34,30-45
+Blue,$426,0,147,23-May,Q2,2023,"$3,056",$0,"$2,773",44,Swipe ,Bills,$553,57,F,1,High School,Single,TX,yes,no,no,cellular,Selfemployeed,"$33,083",5,0,Low Risk,Low,33,46-60
+Blue,$146,1,121,23-May,Q2,2023,"$1,247","$1,294","$4,030",67,Swipe ,Grocery,"$1,068",28,M,1,Graduate,Single,CA,no,no,no,telephone,Selfemployeed,"$46,546",5,103.77,Low Risk,High,33,<30
+Blue,$406,0,154,23-May,Q2,2023,"$1,966",$0,"$4,668",64,Chip ,Entertainment,$905,40,M,3,Unknown,Married,CA,no,no,no,cellular,Govt,"$66,491",3,0,Low Risk,Low,33,30-45
+Blue,$138,0,99,23-May,Q2,2023,"$1,795","$2,708","$1,512",22,Chip ,Food,$451,58,F,2,Graduate,Married,TX,yes,no,no,unknown,Selfemployeed,"$159,339",4,150.86,Low Risk,High,33,46-60
+Blue,$455,1,91,23-May,Q2,2023,"$1,094","$1,614","$3,656",77,Chip ,Food,$620,41,F,2,Unknown,Married,FL,no,yes,no,unknown,Govt,"$38,779",2,147.53,Low Risk,High,33,30-45
+Blue,$471,1,78,23-May,Q2,2023,"$2,466","$2,090","$3,764",66,Chip ,Grocery,"$1,040",47,M,5,Graduate,Married,TX,no,no,no,cellular,Businessman,"$40,994",4,84.75,Low Risk,High,33,46-60
+Blue,$324,0,125,23-May,Q2,2023,"$2,363",$732,"$2,993",53,Swipe ,Entertainment,$461,38,F,3,Graduate,Married,TX,no,no,yes,cellular,Selfemployeed,"$32,465",1,30.98,High Risk,Medium,33,30-45
+Blue,$125,1,82,23-May,Q2,2023,"$4,205","$1,673","$1,883",46,Swipe ,Entertainment,$180,37,F,0,Unknown,Married,NY,yes,no,no,telephone,Businessman,"$15,779",5,39.79,Low Risk,Medium,32,30-45
+Blue,$402,1,96,23-May,Q2,2023,"$1,733",$0,"$3,855",84,Chip ,Food,"$1,153",59,F,3,Uneducated,Married,CA,no,no,no,cellular,Businessman,"$54,468",4,0,Low Risk,Low,32,46-60
+Blue,$243,1,74,23-May,Q2,2023,"$2,004",$866,"$1,909",41,Chip ,Fuel,$200,56,F,2,Graduate,Married,FL,no,yes,no,cellular,Retirees,"$16,337",5,43.21,Low Risk,Medium,32,46-60
+Blue,$471,1,91,23-May,Q2,2023,"$1,422",$0,"$2,415",52,Online ,Grocery,$489,48,F,4,Unknown,Single,TX,no,yes,no,cellular,Govt,"$32,585",5,0,Low Risk,Low,32,46-60
+Gold,$97,0,92,23-May,Q2,2023,"$4,221","$1,892","$1,064",115,Online ,Travel,"$2,540",33,M,2,Unknown,Married,CA,yes,no,no,cellular,Businessman,"$190,802",5,44.82,Low Risk,Medium,32,30-45
+Blue,$100,1,110,23-May,Q2,2023,"$1,229","$1,392","$3,987",91,Swipe ,Bills,$315,56,M,2,Unknown,Single,CA,yes,no,no,cellular,Govt,"$48,016",3,113.26,Low Risk,High,32,46-60
+Blue,$398,1,105,23-May,Q2,2023,"$1,766","$1,773",$831,115,Chip ,Fuel,"$3,634",33,M,3,High School,Married,FL,no,no,no,cellular,Businessman,"$220,885",4,100.4,Low Risk,High,32,30-45
+Blue,$445,1,86,23-Jun,Q2,2023,"$4,711","$1,473","$4,037",84,Swipe ,Food,$781,32,F,0,Post-Graduate,Single,TX,yes,yes,no,cellular,Retirees,"$57,688",1,31.27,High Risk,Medium,32,30-45
+Blue,$250,1,79,23-Jun,Q2,2023,"$2,094",$910,"$2,009",43,Chip ,Fuel,$204,59,F,2,Graduate,Married,FL,no,yes,no,cellular,Retirees,"$16,054",5,43.46,Low Risk,Medium,32,46-60
+Blue,$271,1,103,23-Jun,Q2,2023,"$3,691","$1,031",$693,18,Swipe ,Food,$196,60,F,1,High School,Married,WA,no,no,yes,cellular,Selfemployeed,"$18,476",5,27.93,Low Risk,Low,32,46-60
+Blue,$334,1,79,23-Jun,Q2,2023,"$2,330",$885,"$4,647",92,Swipe ,Food,$443,41,M,5,Unknown,Married,NY,no,yes,no,cellular,White-collar,"$68,661",3,37.98,Low Risk,Medium,31,30-45
+Blue,$418,1,92,23-Jun,Q2,2023,"$1,500",$0,"$2,463",47,Online ,Grocery,$515,54,F,4,Unknown,Single,TX,no,yes,no,cellular,Govt,"$29,456",5,0,Low Risk,Low,31,46-60
+Blue,$143,0,97,23-Jun,Q2,2023,"$7,132","$1,443","$3,830",72,Chip ,Entertainment,$711,36,F,3,Uneducated,Unknown,NY,no,no,no,cellular,Businessman,"$38,721",4,20.23,Low Risk,Low,31,30-45
+Blue,$125,1,81,23-Jun,Q2,2023,"$3,928","$2,459","$1,580",35,Swipe ,Travel,$143,48,F,3,High School,Unknown,CA,no,yes,no,cellular,Blue-collar,"$11,346",5,62.6,Low Risk,High,31,46-60
+Blue,$336,1,108,23-Jun,Q2,2023,"$2,903","$1,726","$4,012",85,Swipe ,Entertainment,$240,49,M,3,High School,Single,NY,no,no,no,cellular,Businessman,"$61,701",4,59.46,Low Risk,Medium,31,46-60
+Blue,$191,0,111,23-Jun,Q2,2023,"$2,397",$0,"$3,190",50,Swipe ,Bills,$487,49,F,2,Graduate,Married,CA,yes,yes,yes,telephone,Govt,"$36,005",4,0,Low Risk,Low,31,46-60
+Blue,$105,1,118,23-Jun,Q2,2023,"$1,276","$1,430","$4,283",95,Swipe ,Bills,$327,50,M,2,Unknown,Single,CA,yes,no,no,cellular,Govt,"$49,152",3,112.07,Low Risk,High,30,46-60
+Blue,$301,1,100,23-Jun,Q2,2023,"$5,882","$1,455","$5,115",90,Chip ,Entertainment,$713,48,M,2,Unknown,Single,FL,yes,no,no,unknown,Blue-collar,"$91,118",5,24.74,Low Risk,Low,30,46-60
+Blue,$349,1,57,23-Jun,Q2,2023,"$1,632",$0,"$9,193",46,Chip ,Entertainment,$767,38,F,4,Graduate,Married,FL,no,no,no,unknown,Businessman,"$30,517",5,0,Low Risk,Low,30,30-45
+Blue,$329,1,111,23-Jun,Q2,2023,"$2,465","$2,076","$1,429",36,Swipe ,Fuel,$165,41,F,3,High School,Married,TX,no,yes,no,cellular,Selfemployeed,"$14,851",5,84.22,Low Risk,High,30,30-45
+Blue,$477,1,101,23-Jun,Q2,2023,"$4,252","$1,097","$1,117",23,Swipe ,Bills,$138,56,F,2,High School,Married,TX,yes,no,no,cellular,Selfemployeed,"$55,887",5,25.8,Low Risk,Low,30,46-60
+Blue,$136,0,81,23-Jun,Q2,2023,"$3,362","$1,108","$1,257",28,Swipe ,Travel,$190,52,F,4,Unknown,Single,TX,no,yes,no,telephone,Selfemployeed,"$18,783",4,32.96,Low Risk,Medium,30,46-60
+Blue,$399,0,149,23-Jun,Q2,2023,"$2,981","$2,193","$4,836",71,Chip ,Travel,"$1,157",56,M,1,Graduate,Married,CA,yes,no,no,telephone,White-collar,"$78,461",3,73.57,Low Risk,High,30,46-60
+Blue,$247,1,85,23-Jun,Q2,2023,"$1,734",$0,"$2,402",41,Swipe ,Bills,$533,44,M,2,High School,Single,TX,no,yes,no,cellular,Blue-collar,"$26,207",5,0,Low Risk,Low,30,30-45
+Blue,$107,1,146,23-Jun,Q2,2023,"$5,201",$0,"$2,637",71,Swipe ,Bills,$813,40,F,3,Uneducated,Unknown,TX,yes,no,no,cellular,Retirees,"$31,701",1,0,High Risk,Low,30,30-45
+Blue,$188,1,102,23-Jun,Q2,2023,"$4,670","$1,517","$1,227",34,Swipe ,Bills,$129,46,F,1,Graduate,Single,MN,no,no,no,cellular,Selfemployeed,"$9,937",5,32.48,Low Risk,Medium,30,46-60
+Blue,$94,1,156,23-Jun,Q2,2023,"$4,708",$0,"$2,751",67,Swipe ,Bills,$820,43,F,3,Uneducated,Unknown,TX,yes,no,no,cellular,Retirees,"$31,193",1,0,High Risk,Low,30,30-45
+Blue,$143,0,117,23-Jun,Q2,2023,"$2,868","$1,882","$3,640",55,Chip ,Fuel,$413,36,F,2,Uneducated,Unknown,CA,yes,yes,no,cellular,Retirees,"$38,155",3,65.62,Low Risk,High,30,30-45
+Blue,$277,1,102,23-Jun,Q2,2023,"$5,820","$1,370","$4,704",93,Chip ,Entertainment,$726,50,M,2,Unknown,Single,FL,yes,no,no,unknown,Blue-collar,"$80,171",5,23.54,Low Risk,Low,30,46-60
+Blue,$306,1,116,23-Jun,Q2,2023,"$2,695","$1,746","$4,801",60,Chip ,Food,$798,51,M,2,Graduate,Married,CA,no,no,no,cellular,Selfemployeed,"$80,658",5,64.79,Low Risk,High,30,46-60
+Blue,$196,0,76,23-Jun,Q2,2023,"$3,075","$1,648","$9,977",25,Swipe ,Travel,$204,44,F,3,Doctorate,Married,NJ,no,no,no,unknown,Blue-collar,"$144,295",1,53.59,High Risk,Medium,30,30-45
+Blue,$148,1,57,23-Jun,Q2,2023,"$2,421","$2,386","$1,716",29,Swipe ,Fuel,$207,60,F,1,Post-Graduate,Married,NJ,yes,yes,no,telephone,Blue-collar,"$15,936",4,98.55,Low Risk,High,30,46-60
+Blue,$369,1,45,23-Jun,Q2,2023,"$2,875","$1,818","$1,581",34,Swipe ,Bills,$342,36,F,1,Graduate,Single,NY,no,yes,no,unknown,Selfemployeed,"$13,358",4,63.23,Low Risk,High,30,30-45
+Blue,$312,1,107,23-Jun,Q2,2023,"$2,591","$2,010","$4,554",64,Chip ,Food,$835,53,M,2,Graduate,Married,CA,no,no,no,cellular,Selfemployeed,"$84,404",5,77.58,Low Risk,High,30,46-60
+Blue,$430,0,63,23-Jun,Q2,2023,"$2,810",$816,"$4,110",81,Swipe ,Entertainment,$426,46,M,1,High School,Single,TX,no,no,yes,cellular,Businessman,"$62,555",4,29.04,Low Risk,Low,30,46-60
+Blue,$350,0,82,23-Jun,Q2,2023,"$5,473","$1,128","$1,442",43,Swipe ,Bills,$419,32,F,1,Graduate,Single,UT,yes,yes,yes,unknown,Selfemployeed,"$14,442",5,20.61,Low Risk,Low,29,30-45
+Blue,$93,0,70,23-Jun,Q2,2023,"$1,532",$0,"$4,718",88,Online ,Grocery,$787,37,M,1,High School,Married,NJ,no,no,no,cellular,Businessman,"$96,124",5,0,Low Risk,Low,28,30-45
+Silver,$106,0,124,23-Jul,Q3,2023,"$3,224","$1,330","$2,041",28,Swipe ,Grocery,$433,55,F,2,Uneducated,Single,NY,yes,no,no,unknown,Govt,"$20,174",3,41.25,Low Risk,Medium,28,46-60
+Blue,$419,0,126,23-Jul,Q3,2023,"$6,950","$1,839","$4,949",81,Swipe ,Bills,"$1,362",41,M,5,Unknown,Married,NY,yes,no,no,cellular,Govt,"$88,990",3,26.46,Low Risk,Low,28,30-45
+Blue,$139,1,116,23-Jul,Q3,2023,"$2,866","$1,995","$1,584",29,Swipe ,Travel,$90,33,F,2,Doctorate,Single,NJ,no,no,no,unknown,Selfemployeed,"$60,500",2,69.61,Low Risk,High,28,30-45
+Blue,$366,1,69,23-Jul,Q3,2023,"$2,191",$700,"$3,422",57,Online ,Grocery,$340,39,F,2,Unknown,Single,NV,yes,yes,no,unknown,Blue-collar,"$35,731",1,31.95,High Risk,Medium,28,30-45
+Blue,$377,0,92,23-Jul,Q3,2023,"$2,502",$834,"$4,253",80,Swipe ,Grocery,$505,46,F,4,Graduate,Single,CA,yes,no,no,cellular,Businessman,"$51,968",4,33.33,Low Risk,Medium,28,46-60
+Blue,$450,0,71,23-Jul,Q3,2023,"$2,660",$843,"$4,048",75,Swipe ,Entertainment,$464,45,M,1,High School,Single,TX,no,no,yes,cellular,Businessman,"$58,572",4,31.69,Low Risk,Medium,28,30-45
+Blue,$442,1,108,23-Jul,Q3,2023,"$3,844","$1,122","$1,146",21,Swipe ,Bills,$137,54,F,2,High School,Married,TX,yes,no,no,cellular,Selfemployeed,"$52,534",5,29.19,Low Risk,Low,27,46-60
+Blue,$122,0,76,23-Jul,Q3,2023,"$4,164",$964,"$2,403",51,Swipe ,Fuel,$297,52,F,5,Unknown,Married,NY,no,yes,no,cellular,Retirees,"$25,141",1,23.15,High Risk,Low,27,46-60
+Gold,$463,0,145,23-Jul,Q3,2023,"$3,640","$1,415","$7,094",90,Swipe ,Bills,"$2,034",55,M,1,Graduate,Married,NY,yes,no,no,cellular,Businessman,"$104,883",5,38.87,Low Risk,Medium,27,46-60
+Blue,$145,0,89,23-Jul,Q3,2023,"$6,515","$1,874","$2,321",44,Swipe ,Fuel,$289,38,F,2,Unknown,Single,TX,yes,yes,no,cellular,Govt,"$25,433",2,28.76,Low Risk,Low,27,30-45
+Blue,$193,1,106,23-Jul,Q3,2023,"$4,433","$1,541","$1,169",32,Swipe ,Bills,$120,49,F,1,Graduate,Single,MN,no,no,no,cellular,Selfemployeed,"$10,757",5,34.76,Low Risk,Medium,27,46-60
+Blue,$489,1,143,23-Jul,Q3,2023,"$2,524","$1,394","$4,672",89,Swipe ,Food,"$1,130",60,M,1,Uneducated,Single,NY,no,no,no,telephone,Govt,"$79,673",5,55.23,Low Risk,Medium,27,46-60
+Blue,$270,1,82,23-Jul,Q3,2023,"$4,055","$1,630","$2,062",31,Online ,Bills,$580,54,F,2,Graduate,Married,FL,no,no,no,cellular,White-collar,"$21,838",4,40.2,Low Risk,Medium,27,46-60
+Blue,$151,1,73,23-Jul,Q3,2023,"$4,245","$2,025","$4,415",59,Swipe ,Entertainment,"$1,052",51,F,2,Graduate,Married,CA,no,yes,no,cellular,Selfemployeed,"$48,412",1,47.7,High Risk,Medium,27,46-60
+Blue,$334,1,80,23-Jul,Q3,2023,"$3,592","$1,280","$4,112",68,Swipe ,Grocery,"$1,021",34,F,4,Graduate,Married,CA,no,no,no,cellular,Blue-collar,"$54,357",1,35.63,High Risk,Medium,27,30-45
+Blue,$222,1,107,23-Jul,Q3,2023,"$1,707",$0,"$7,885",88,Swipe ,Grocery,$748,40,M,3,Graduate,Single,VA,no,no,yes,cellular,Blue-collar,"$111,250",4,0,Low Risk,Low,27,30-45
+Blue,$322,0,122,23-Jul,Q3,2023,"$1,677",$0,"$2,485",45,Swipe ,Grocery,$465,63,F,0,High School,Single,TX,yes,no,no,unknown,Retirees,"$28,721",1,0,High Risk,Low,26,60+
+Blue,$405,0,43,23-Jul,Q3,2023,"$1,209",$0,"$1,293",26,Swipe ,Grocery,$392,47,F,0,Unknown,Married,TX,yes,yes,no,cellular,Blue-collar,"$12,615",3,0,Low Risk,Low,26,46-60
+Blue,$140,1,84,23-Jul,Q3,2023,"$3,986","$2,160","$1,777",35,Swipe ,Travel,$153,45,F,3,High School,Unknown,CA,no,yes,no,cellular,Blue-collar,"$9,828",5,54.19,Low Risk,Medium,26,30-45
+Blue,$121,1,82,23-Jul,Q3,2023,"$3,178","$2,083","$5,256",77,Swipe ,Fuel,$945,45,M,3,Unknown,Married,TX,yes,yes,no,cellular,Govt,"$88,628",4,65.54,Low Risk,High,26,30-45
+Blue,$148,0,85,23-Jul,Q3,2023,"$3,571","$1,200","$1,232",30,Swipe ,Travel,$196,47,F,4,Unknown,Single,TX,no,yes,no,telephone,Selfemployeed,"$19,687",4,33.6,Low Risk,Medium,26,46-60
+Blue,$371,0,109,23-Jul,Q3,2023,"$2,529","$1,159","$3,728",70,Chip ,Entertainment,"$1,091",45,F,3,Graduate,Married,TX,yes,yes,no,cellular,Retirees,"$41,819",3,45.83,Low Risk,Medium,26,30-45
+Silver,$318,1,118,23-Jul,Q3,2023,"$3,285","$1,620","$1,584",113,Swipe ,Bills,"$3,771",50,M,4,Unknown,Married,FL,no,no,no,cellular,Businessman,"$220,904",5,49.32,Low Risk,Medium,26,46-60
+Silver,$234,0,111,23-Jul,Q3,2023,"$3,381","$1,618","$7,339",82,Swipe ,Grocery,"$1,622",35,M,3,Graduate,Unknown,TX,yes,yes,yes,cellular,White-collar,"$98,371",4,47.86,Low Risk,Medium,26,30-45
+Blue,$112,1,59,23-Jul,Q3,2023,"$2,619","$1,601","$4,659",82,Swipe ,Bills,$669,35,M,3,High School,Married,MN,no,no,no,cellular,Blue-collar,"$76,873",5,61.13,Low Risk,High,25,30-45
+Silver,$359,1,122,23-Jul,Q3,2023,"$3,354","$1,748",$945,106,Swipe ,Bills,"$4,029",47,M,4,Unknown,Married,FL,no,no,no,cellular,Businessman,"$220,353",5,52.12,Low Risk,Medium,25,46-60
+Blue,$334,0,81,23-Jul,Q3,2023,"$2,722","$1,833","$4,944",77,Swipe ,Entertainment,"$1,272",50,M,5,High School,Married,FL,yes,no,no,cellular,White-collar,"$91,322",2,67.34,Low Risk,High,25,46-60
+Blue,$135,0,99,23-Jul,Q3,2023,"$7,402","$1,453","$3,327",73,Chip ,Entertainment,$775,43,F,3,Uneducated,Unknown,NY,no,no,no,cellular,Businessman,"$42,406",4,19.63,Low Risk,Low,25,30-45
+Blue,$376,1,155,23-Jul,Q3,2023,"$2,593","$1,383","$4,383",62,Chip ,Travel,$673,48,F,4,High School,Unknown,NY,yes,yes,no,cellular,Retirees,"$53,600",1,53.34,High Risk,Medium,25,46-60
+Blue,$358,1,108,23-Jul,Q3,2023,"$2,791","$2,177","$1,455",37,Swipe ,Fuel,$157,40,F,3,High School,Married,TX,no,yes,no,cellular,Selfemployeed,"$15,933",5,78,Low Risk,High,25,30-45
+Blue,$125,0,79,23-Jul,Q3,2023,"$1,570",$0,"$3,194",71,Swipe ,Entertainment,$895,47,F,2,Graduate,Single,CA,yes,no,no,cellular,Selfemployeed,"$35,027",4,0,Low Risk,Low,25,46-60
+Blue,$349,1,71,23-Aug,Q3,2023,"$3,088","$2,537","$1,600",34,Swipe ,Fuel,$112,43,F,4,Uneducated,Single,TX,no,yes,no,cellular,Selfemployeed,"$14,464",5,82.16,Low Risk,High,25,30-45
+Blue,$270,1,88,23-Aug,Q3,2023,"$1,604",$0,"$2,321",41,Swipe ,Bills,$588,48,M,2,High School,Single,TX,no,yes,no,cellular,Blue-collar,"$25,068",5,0,Low Risk,Low,25,46-60
+Gold,$93,0,96,23-Aug,Q3,2023,"$3,878","$1,892",$933,110,Online ,Travel,"$2,411",34,M,2,Unknown,Married,CA,yes,no,no,cellular,Businessman,"$222,811",5,48.79,Low Risk,Medium,25,30-45
+Blue,$393,0,122,23-Aug,Q3,2023,"$5,959","$1,107","$8,044",87,Swipe ,Food,"$1,405",39,M,5,Unknown,Married,TX,yes,yes,no,cellular,Businessman,"$116,073",1,18.58,High Risk,Low,25,30-45
+Blue,$270,0,86,23-Aug,Q3,2023,"$8,223","$1,968","$1,601",28,Swipe ,Bills,$389,47,M,4,Uneducated,Unknown,UT,no,no,no,cellular,Selfemployeed,"$13,175",1,23.93,High Risk,Low,25,46-60
+Silver,$438,1,99,23-Aug,Q3,2023,"$2,344","$1,431","$1,369",30,Swipe ,Bills,$225,40,F,1,Graduate,Married,CA,no,yes,no,telephone,Selfemployeed,"$15,860",4,61.05,Low Risk,High,25,30-45
+Blue,$367,1,73,23-Aug,Q3,2023,"$4,989","$1,294","$1,647",59,Swipe ,Bills,$100,40,F,3,Graduate,Unknown,TX,no,yes,no,cellular,Selfemployeed,"$15,414",1,25.94,High Risk,Low,25,30-45
+Blue,$104,1,124,23-Aug,Q3,2023,"$4,584",$742,$868,22,Swipe ,Grocery,$259,49,F,3,Graduate,Single,TX,no,yes,no,cellular,Selfemployeed,"$2,522",5,16.19,Low Risk,Low,25,46-60
+Blue,$388,0,115,23-Aug,Q3,2023,"$5,375","$1,243","$7,170",89,Swipe ,Food,"$1,406",34,M,5,Unknown,Married,TX,yes,yes,no,cellular,Businessman,"$93,411",1,23.13,High Risk,Low,25,30-45
+Blue,$91,0,145,23-Aug,Q3,2023,"$2,660",$793,"$4,287",76,Swipe ,Grocery,"$1,215",41,M,4,Graduate,Single,TX,no,yes,no,cellular,Retirees,"$55,783",2,29.81,Low Risk,Low,25,30-45
+Blue,$172,0,109,23-Aug,Q3,2023,"$8,742",$0,"$1,308",31,Swipe ,Entertainment,$245,53,F,3,Post-Graduate,Married,NY,no,yes,no,cellular,Selfemployeed,"$187,345",4,0,Low Risk,Low,25,46-60
+Blue,$330,1,111,23-Aug,Q3,2023,"$1,519",$663,"$1,093",50,Swipe ,Entertainment,$607,44,F,3,Uneducated,Married,CA,no,no,yes,cellular,Govt,"$31,348",1,43.65,High Risk,Medium,25,30-45
+Blue,$353,0,155,23-Aug,Q3,2023,"$1,628","$1,159","$4,166",80,Chip ,Food,$532,42,M,2,Doctorate,Single,IL,yes,no,no,cellular,Retirees,"$64,566",4,71.19,Low Risk,High,24,30-45
+Blue,$166,0,89,23-Aug,Q3,2023,"$4,017",$0,"$5,578",75,Chip ,Fuel,"$1,543",51,M,1,High School,Married,FL,no,yes,no,cellular,Govt,"$102,046",4,0,Low Risk,Low,24,46-60
+Blue,$130,1,79,23-Aug,Q3,2023,"$7,741","$2,335","$5,760",82,Swipe ,Grocery,$694,47,M,2,Doctorate,Single,FL,no,yes,no,cellular,Retirees,"$100,721",2,30.16,Low Risk,Medium,24,46-60
+Blue,$126,0,66,23-Aug,Q3,2023,"$2,495","$2,081","$1,729",42,Swipe ,Entertainment,$132,46,F,3,Graduate,Married,TX,no,yes,no,cellular,Govt,"$486,788",3,83.41,Low Risk,High,24,46-60
+Blue,$348,0,151,23-Aug,Q3,2023,"$1,544","$1,180","$4,226",80,Chip ,Food,$548,41,M,2,Doctorate,Single,IL,yes,no,no,cellular,Retirees,"$67,607",4,76.42,Low Risk,High,24,30-45
+Blue,$128,1,100,23-Aug,Q3,2023,"$2,096",$0,"$4,596",73,Swipe ,Grocery,$379,50,M,2,Graduate,Married,TX,yes,yes,no,telephone,Selfemployeed,"$65,099",3,0,Low Risk,Low,24,46-60
+Blue,$409,0,169,23-Aug,Q3,2023,"$2,241",$0,"$4,677",68,Chip ,Entertainment,$851,39,M,3,Unknown,Married,CA,no,no,no,cellular,Govt,"$72,850",3,0,Low Risk,Low,24,30-45
+Blue,$183,0,95,23-Aug,Q3,2023,"$4,054",$0,"$8,128",71,Chip ,Fuel,"$1,596",57,M,1,High School,Married,FL,no,yes,no,cellular,Govt,"$107,311",4,0,Low Risk,Low,24,46-60
+Blue,$200,0,108,23-Aug,Q3,2023,"$2,019","$2,142","$8,811",90,Swipe ,Entertainment,"$2,469",41,M,3,Graduate,Married,NJ,no,yes,yes,cellular,Blue-collar,"$119,655",2,106.09,Low Risk,High,24,30-45
+Blue,$394,1,109,23-Aug,Q3,2023,"$1,819","$1,644","$6,736",118,Chip ,Fuel,"$4,193",33,M,3,High School,Married,FL,no,no,no,cellular,Businessman,"$227,121",4,90.38,Low Risk,High,23,30-45
+Blue,$135,1,84,23-Aug,Q3,2023,"$3,647","$2,296","$8,025",34,Swipe ,Travel,$160,44,F,3,High School,Unknown,CA,no,yes,no,cellular,Blue-collar,"$10,149",5,62.96,Low Risk,High,23,30-45
+Blue,$189,1,158,23-Aug,Q3,2023,"$2,229",$619,"$3,062",67,Online ,Entertainment,$202,53,F,1,Graduate,Married,NY,no,no,no,cellular,White-collar,"$34,330",4,27.77,Low Risk,Low,23,46-60
+Blue,$95,0,150,23-Aug,Q3,2023,"$2,898",$699,"$4,167",78,Swipe ,Grocery,"$1,256",39,M,4,Graduate,Single,TX,no,yes,no,cellular,Retirees,"$55,129",2,24.12,Low Risk,Low,23,30-45
+Blue,$414,0,125,23-Aug,Q3,2023,"$7,124","$2,039","$4,801",82,Swipe ,Bills,"$1,328",34,M,5,Unknown,Married,NY,yes,no,no,cellular,Govt,"$90,763",3,28.62,Low Risk,Low,23,30-45
+Blue,$397,1,114,23-Aug,Q3,2023,"$2,581",$0,"$4,243",83,Swipe ,Food,$229,46,M,3,Unknown,Single,CA,yes,yes,yes,cellular,White-collar,"$40,776",4,0,Low Risk,Low,23,46-60
+Blue,$360,1,117,23-Aug,Q3,2023,"$3,279","$1,696","$1,763",60,Swipe ,Entertainment,$317,47,F,3,Doctorate,Married,CA,no,no,no,unknown,Selfemployeed,"$13,647",1,51.72,High Risk,Medium,22,46-60
+Blue,$307,1,102,23-Aug,Q3,2023,"$8,303","$1,292","$8,416",82,Swipe ,Grocery,$440,38,M,3,Graduate,Married,FL,no,yes,no,cellular,Businessman,"$115,195",5,15.56,Low Risk,Low,22,30-45
+Blue,$258,1,39,23-Aug,Q3,2023,"$9,396","$2,608","$1,602",42,Swipe ,Entertainment,$337,47,F,1,Graduate,Married,CA,no,no,no,unknown,Selfemployeed,"$15,787",5,27.76,Low Risk,Low,22,46-60
+Blue,$442,1,133,23-Aug,Q3,2023,"$2,789","$1,431","$4,660",84,Swipe ,Food,"$1,166",55,M,1,Uneducated,Single,NY,no,no,no,telephone,Govt,"$71,279",5,51.31,Low Risk,Medium,22,46-60
+Blue,$156,0,91,23-Sep,Q3,2023,"$7,239","$1,805","$2,329",44,Swipe ,Fuel,$278,43,F,2,Unknown,Single,TX,yes,yes,no,cellular,Govt,"$24,685",2,24.93,Low Risk,Low,22,30-45
+Blue,$402,0,77,23-Sep,Q3,2023,"$6,308","$1,779","$9,107",73,Swipe ,Fuel,"$1,698",43,M,4,Graduate,Single,TX,no,yes,yes,unknown,Govt,"$114,950",5,28.2,Low Risk,Low,22,30-45
+Blue,$443,0,72,23-Sep,Q3,2023,"$2,611",$0,"$3,620",60,Swipe ,Grocery,$858,32,F,3,Graduate,Married,NY,no,no,yes,cellular,Selfemployeed,"$39,345",1,0,High Risk,Low,21,30-45
+Blue,$256,1,78,23-Sep,Q3,2023,"$2,043",$863,"$1,914",43,Chip ,Fuel,$207,56,F,2,Graduate,Married,FL,no,yes,no,cellular,Retirees,"$17,439",5,42.24,Low Risk,Medium,20,46-60
+Blue,$434,1,142,23-Sep,Q3,2023,"$4,638","$1,568","$1,858",116,Chip ,Food,"$2,346",46,M,3,Uneducated,Single,NY,no,no,no,cellular,White-collar,"$127,565",3,33.81,Low Risk,Medium,20,46-60
+Blue,$543,1,73,23-Sep,Q3,2023,"$2,531","$1,830","$4,053",74,Chip ,Grocery,$905,51,M,5,Graduate,Married,TX,no,no,no,cellular,Businessman,"$42,145",4,72.3,Low Risk,High,20,46-60
+Blue,$387,1,148,23-Sep,Q3,2023,"$4,913","$1,579","$1,408",123,Chip ,Food,"$2,544",45,M,3,Uneducated,Single,NY,no,no,no,cellular,White-collar,"$132,085",3,32.14,Low Risk,Medium,20,30-45
+Silver,$107,1,104,23-Sep,Q3,2023,"$3,296",$783,"$1,951",29,Swipe ,Grocery,$250,49,F,2,Graduate,Married,NY,no,yes,yes,cellular,Retirees,"$16,655",4,23.76,Low Risk,Low,20,46-60
+Gold,$247,0,112,23-Sep,Q3,2023,"$8,547","$1,633","$1,519",123,Chip ,Travel,"$3,108",56,M,3,High School,Married,NY,yes,no,no,unknown,White-collar,"$156,470",4,19.11,Low Risk,Low,19,46-60
+Blue,$408,1,124,23-Sep,Q3,2023,"$2,446","$1,410","$2,347",40,Swipe ,Bills,$564,46,F,1,Graduate,Married,TX,no,yes,no,cellular,White-collar,"$25,187",5,57.65,Low Risk,Medium,19,46-60
+Blue,$431,0,120,23-Sep,Q3,2023,"$1,889","$2,474","$1,869",48,Swipe ,Bills,$358,44,F,2,High School,Unknown,FL,yes,yes,no,telephone,Govt,"$20,358",3,130.97,Low Risk,High,19,30-45
+Blue,$468,1,133,23-Sep,Q3,2023,"$2,545","$1,512","$4,832",92,Swipe ,Food,"$1,183",55,M,1,Uneducated,Single,NY,no,no,no,telephone,Govt,"$79,843",5,59.41,Low Risk,Medium,19,46-60
+Blue,$293,0,89,23-Sep,Q3,2023,"$4,784","$1,151","$3,359",70,Swipe ,Food,$642,43,F,2,High School,Single,FL,yes,yes,yes,cellular,White-collar,"$38,330",4,24.06,Low Risk,Low,19,30-45
+Silver,$111,1,102,23-Sep,Q3,2023,"$3,300",$899,"$1,869",29,Swipe ,Grocery,$257,53,F,2,Graduate,Married,NY,no,yes,yes,cellular,Retirees,"$15,733",4,27.24,Low Risk,Low,18,46-60
+Blue,$423,0,117,23-Sep,Q3,2023,"$7,027","$1,982","$5,058",86,Swipe ,Bills,"$1,290",37,M,5,Unknown,Married,NY,yes,no,no,cellular,Govt,"$97,133",3,28.21,Low Risk,Low,17,30-45
+Blue,$378,1,64,23-Sep,Q3,2023,"$2,254",$728,"$3,204",56,Online ,Grocery,$316,39,F,2,Unknown,Single,NV,yes,yes,no,unknown,Blue-collar,"$36,890",1,32.3,High Risk,Medium,17,30-45
+Silver,$103,1,154,23-Sep,Q3,2023,"$3,471","$2,152","$3,284",64,Swipe ,Grocery,$698,44,F,1,Graduate,Married,CA,yes,no,no,cellular,Retirees,"$133,785",4,62,Low Risk,High,17,30-45
+Blue,$281,0,162,23-Sep,Q3,2023,"$2,484","$1,692","$2,621",52,Swipe ,Food,$148,39,F,2,Graduate,Married,CA,no,no,no,cellular,Selfemployeed,"$29,915",5,68.12,Low Risk,High,17,30-45
+Blue,$177,1,110,23-Sep,Q3,2023,"$4,495",$771,"$4,742",93,Swipe ,Food,"$1,337",44,M,4,High School,Married,NY,no,no,yes,cellular,Govt,"$94,033",1,17.15,High Risk,Low,17,30-45
+Blue,$130,1,110,23-Sep,Q3,2023,"$1,286","$1,115","$3,641",65,Swipe ,Grocery,$935,31,M,1,Graduate,Single,CA,no,no,no,telephone,Selfemployeed,"$48,816",5,86.7,Low Risk,High,16,30-45
+Blue,$487,1,167,23-Sep,Q3,2023,"$2,328","$1,563","$3,947",91,Swipe ,Fuel,$731,49,M,3,High School,Unknown,FL,yes,yes,no,cellular,Retirees,"$48,380",4,67.14,Low Risk,High,16,46-60
+Blue,$192,0,96,23-Sep,Q3,2023,"$4,224",$0,"$7,299",67,Chip ,Fuel,"$1,484",54,M,1,High School,Married,FL,no,yes,no,cellular,Govt,"$100,513",4,0,Low Risk,Low,16,46-60
+Blue,$338,1,107,23-Sep,Q3,2023,"$2,856","$1,614","$4,574",95,Swipe ,Entertainment,$260,54,M,3,High School,Single,NY,no,no,no,cellular,Businessman,"$61,591",4,56.51,Low Risk,Medium,16,46-60
+Blue,$288,0,108,23-Sep,Q3,2023,"$4,250","$1,253","$1,512",123,Swipe ,Bills,"$1,678",55,M,3,Graduate,Single,FL,yes,no,no,unknown,White-collar,"$147,233",4,29.48,Low Risk,Low,16,46-60
+Blue,$363,0,65,23-Sep,Q3,2023,"$7,194",$0,"$1,592",27,Chip ,Food,$308,40,F,4,Graduate,Single,CA,no,no,no,telephone,Selfemployeed,"$15,515",3,0,Low Risk,Low,16,30-45
+Blue,$431,1,100,23-Sep,Q3,2023,"$1,645","$1,733","$1,689",120,Chip ,Fuel,"$3,964",35,M,3,High School,Married,FL,no,no,no,cellular,Businessman,"$232,561",4,105.35,Low Risk,High,16,30-45
+Blue,$126,1,118,23-Sep,Q3,2023,"$1,298","$1,178","$3,930",68,Swipe ,Grocery,"$1,159",31,M,1,Graduate,Single,CA,no,no,no,telephone,Selfemployeed,"$47,027",5,90.76,Low Risk,High,16,30-45
+Blue,$217,0,78,23-Sep,Q3,2023,"$3,044","$1,828","$9,337",23,Swipe ,Travel,$202,52,F,3,Doctorate,Married,NJ,no,no,no,unknown,Blue-collar,"$143,242",1,60.05,High Risk,High,16,46-60
+Blue,$430,1,72,23-Sep,Q3,2023,"$1,501",$0,"$2,319",44,Swipe ,Food,$393,25,M,0,High School,Single,TX,no,yes,yes,unknown,Selfemployeed,"$25,086",4,0,Low Risk,Low,16,<30
+Blue,$259,1,87,23-Sep,Q3,2023,"$2,707","$1,340","$2,950",70,Swipe ,Bills,$286,62,F,1,High School,Single,CA,no,no,no,cellular,Govt,"$36,265",4,49.5,Low Risk,Medium,15,60+
+Blue,$180,1,74,23-Oct,Q4,2023,"$1,367",$0,"$1,554",49,Swipe ,Bills,$97,43,F,3,Graduate,Married,CA,yes,no,no,cellular,Selfemployeed,"$12,098",4,0,Low Risk,Low,15,30-45
+Blue,$250,1,43,23-Oct,Q4,2023,"$2,992","$1,566","$1,089",30,Swipe ,Bills,$274,26,F,1,High School,Married,TX,no,no,no,unknown,Selfemployeed,"$6,863",1,52.34,High Risk,Medium,15,<30
+Silver,$179,1,91,23-Oct,Q4,2023,"$1,732","$2,649","$1,557",34,Swipe ,Travel,$405,34,M,1,Graduate,Married,TX,yes,yes,no,unknown,Businessman,"$14,391",2,152.94,Low Risk,High,15,30-45
+Blue,$397,1,77,23-Oct,Q4,2023,"$1,623",$0,"$2,305",39,Chip ,Grocery,$401,45,F,3,Uneducated,Married,FL,yes,no,no,telephone,Businessman,"$27,193",5,0,Low Risk,Low,15,30-45
+Blue,$496,1,102,23-Oct,Q4,2023,"$4,484","$1,340","$1,352",121,Swipe ,Grocery,"$3,859",37,M,2,High School,Unknown,NY,no,no,no,cellular,Businessman,"$181,924",1,29.88,High Risk,Low,15,30-45
+Blue,$397,0,59,23-Oct,Q4,2023,"$2,658",$790,"$4,881",80,Swipe ,Entertainment,$415,40,M,1,High School,Single,TX,no,no,yes,cellular,Businessman,"$60,499",4,29.72,Low Risk,Low,15,30-45
+Blue,$415,1,97,23-Oct,Q4,2023,"$1,031","$1,508","$3,296",72,Chip ,Food,$603,40,F,2,Unknown,Married,FL,no,yes,no,unknown,Govt,"$41,416",2,146.27,Low Risk,High,14,30-45
+Blue,$476,0,95,23-Oct,Q4,2023,"$3,119","$1,981","$4,300",70,Chip ,Fuel,"$1,189",52,M,2,High School,Married,NJ,yes,no,no,cellular,Businessman,"$59,031",4,63.51,Low Risk,High,14,46-60
+Blue,$348,1,103,23-Oct,Q4,2023,"$2,598","$1,989","$1,657",34,Swipe ,Fuel,$158,42,F,3,High School,Married,TX,no,yes,no,cellular,Selfemployeed,"$15,212",5,76.56,Low Risk,High,14,30-45
+Blue,$254,1,98,23-Oct,Q4,2023,"$1,330",$0,"$2,116",65,Swipe ,Bills,$246,44,F,3,Unknown,Married,CA,yes,no,no,unknown,Blue-collar,"$20,434",5,0,Low Risk,Low,14,30-45
+Blue,$103,1,59,23-Oct,Q4,2023,"$2,194","$1,384","$2,022",37,Swipe ,Entertainment,$348,56,F,0,Unknown,Married,NJ,no,no,no,cellular,Govt,"$18,562",5,63.08,Low Risk,High,14,46-60
+Blue,$177,0,100,23-Oct,Q4,2023,"$2,076",$0,"$3,390",50,Swipe ,Bills,$494,48,F,2,Graduate,Married,CA,yes,yes,yes,telephone,Govt,"$33,459",4,0,Low Risk,Low,14,46-60
+Blue,$120,0,72,23-Oct,Q4,2023,"$3,943",$971,"$2,211",48,Swipe ,Fuel,$292,54,F,5,Unknown,Married,NY,no,yes,no,cellular,Retirees,"$26,090",1,24.63,High Risk,Low,13,46-60
+Blue,$458,0,111,23-Oct,Q4,2023,"$5,381","$1,638","$4,294",62,Swipe ,Fuel,"$1,213",62,M,1,Uneducated,Single,FL,no,yes,no,cellular,Govt,"$57,108",2,30.44,Low Risk,Medium,13,60+
+Blue,$285,0,156,23-Oct,Q4,2023,"$2,063","$1,599","$2,611",48,Swipe ,Food,$153,42,F,2,Graduate,Married,CA,no,no,no,cellular,Selfemployeed,"$31,106",5,77.51,Low Risk,High,13,30-45
+Blue,$127,0,123,23-Oct,Q4,2023,"$2,595","$1,758","$3,323",54,Chip ,Fuel,$433,35,F,2,Uneducated,Unknown,CA,yes,yes,no,cellular,Retirees,"$34,393",3,67.75,Low Risk,High,13,30-45
+Blue,$414,1,150,23-Oct,Q4,2023,"$2,479","$1,625","$5,220",95,Swipe ,Food,"$1,130",56,M,1,Uneducated,Single,NY,no,no,no,telephone,Govt,"$78,810",5,65.55,Low Risk,High,13,46-60
+Blue,$476,0,89,23-Oct,Q4,2023,"$5,636","$1,252","$4,440",92,Swipe ,Fuel,$332,62,M,2,Graduate,Married,NJ,yes,yes,no,cellular,Businessman,"$66,809",5,22.21,Low Risk,Low,13,60+
+Blue,$126,1,86,23-Oct,Q4,2023,"$3,363","$2,125","$4,670",93,Chip ,Bills,"$1,216",27,M,1,High School,Single,FL,no,no,no,cellular,Selfemployeed,"$82,169",4,63.19,Low Risk,High,13,<30
+Blue,$285,1,149,23-Oct,Q4,2023,"$5,007",$0,"$3,228",80,Chip ,Grocery,$734,50,M,2,Post-Graduate,Single,TX,no,yes,no,cellular,Selfemployeed,"$43,197",5,0,Low Risk,Low,13,46-60
+Blue,$126,0,107,23-Oct,Q4,2023,"$8,212","$1,353","$4,889",83,Swipe ,Grocery,"$1,143",37,M,2,Graduate,Unknown,CT,yes,no,no,telephone,Businessman,"$91,014",4,16.48,Low Risk,Low,13,30-45
+Blue,$414,1,45,23-Oct,Q4,2023,"$2,761","$1,828","$1,723",39,Swipe ,Bills,$390,33,F,1,Graduate,Single,NY,no,yes,no,unknown,Selfemployeed,"$16,208",4,66.21,Low Risk,High,13,30-45
+Blue,$318,0,125,23-Oct,Q4,2023,"$2,037",$819,"$3,053",55,Swipe ,Entertainment,$437,43,F,3,Graduate,Married,TX,no,no,yes,cellular,Selfemployeed,"$29,934",1,40.21,High Risk,Medium,13,30-45
+Blue,$410,0,148,23-Oct,Q4,2023,"$4,157",$685,"$2,368",35,Chip ,Grocery,$565,57,F,0,Unknown,Married,CA,no,yes,no,cellular,Govt,"$27,686",5,16.48,Low Risk,Low,12,46-60
+Blue,$376,1,127,23-Oct,Q4,2023,"$2,549","$1,325","$2,354",40,Swipe ,Bills,$530,41,F,1,Graduate,Married,TX,no,yes,no,cellular,White-collar,"$26,076",5,51.98,Low Risk,Medium,12,30-45
+Blue,$276,1,101,23-Oct,Q4,2023,"$2,844",$0,"$2,097",41,Swipe ,Bills,$195,55,F,3,Unknown,Single,FL,yes,no,no,unknown,White-collar,"$25,178",5,0,Low Risk,Low,12,46-60
+Blue,$105,1,117,23-Oct,Q4,2023,"$1,289","$1,406","$4,171",89,Swipe ,Bills,$308,57,M,2,Unknown,Single,CA,yes,no,no,cellular,Govt,"$48,501",3,109.08,Low Risk,High,12,46-60
+Blue,$315,1,112,23-Oct,Q4,2023,"$2,447","$1,910","$5,255",62,Chip ,Food,$821,54,M,2,Graduate,Married,CA,no,no,no,cellular,Selfemployeed,"$83,155",5,78.05,Low Risk,High,12,46-60
+Blue,$454,0,123,23-Oct,Q4,2023,"$1,846","$2,530","$2,178",43,Swipe ,Bills,$373,44,F,2,High School,Unknown,FL,yes,yes,no,telephone,Govt,"$22,190",3,137.05,Low Risk,High,12,30-45
+Blue,$138,0,69,23-Oct,Q4,2023,"$2,549","$2,080","$1,707",37,Swipe ,Entertainment,$147,45,F,3,Graduate,Married,TX,no,yes,no,cellular,Govt,"$485,675",3,81.6,Low Risk,High,12,30-45
+Blue,$231,1,81,23-Oct,Q4,2023,"$2,826","$1,395","$3,146",72,Swipe ,Bills,$285,59,F,1,High School,Single,CA,no,no,no,cellular,Govt,"$33,973",4,49.36,Low Risk,Medium,12,46-60
+Blue,$464,0,118,23-Nov,Q4,2023,"$1,821","$2,469","$2,091",43,Swipe ,Bills,$369,49,F,2,High School,Unknown,FL,yes,yes,no,telephone,Govt,"$20,846",3,135.58,Low Risk,High,12,46-60
+Blue,$180,0,100,23-Nov,Q4,2023,"$2,188",$0,"$3,518",53,Swipe ,Bills,$477,45,F,2,Graduate,Married,CA,yes,yes,yes,telephone,Govt,"$36,938",4,0,Low Risk,Low,12,30-45
+Blue,$312,1,98,23-Nov,Q4,2023,"$2,669",$0,"$2,314",44,Swipe ,Bills,$179,52,F,3,Unknown,Single,FL,yes,no,no,unknown,White-collar,"$23,935",5,0,Low Risk,Low,11,46-60
+Blue,$127,1,83,23-Nov,Q4,2023,"$3,520","$2,211","$4,791",96,Chip ,Bills,"$1,156",26,M,1,High School,Single,FL,no,no,no,cellular,Selfemployeed,"$77,383",4,62.81,Low Risk,High,11,<30
+Blue,$119,1,74,23-Nov,Q4,2023,"$3,021","$2,027","$4,630",81,Swipe ,Fuel,$925,48,M,3,Unknown,Married,TX,yes,yes,no,cellular,Govt,"$86,130",4,67.1,Low Risk,High,11,46-60
+Blue,$442,0,119,23-Nov,Q4,2023,"$1,878","$2,603","$2,077",45,Swipe ,Bills,$381,46,F,2,High School,Unknown,FL,yes,yes,no,telephone,Govt,"$21,847",3,138.6,Low Risk,High,11,46-60
+Blue,$492,1,119,23-Nov,Q4,2023,"$1,449",$0,"$1,437",40,Swipe ,Bills,$260,70,F,0,High School,Single,NY,yes,no,no,cellular,Selfemployeed,"$14,488",4,0,Low Risk,Low,11,60+
+Blue,$229,1,91,23-Nov,Q4,2023,"$1,544",$0,"$6,770",90,Swipe ,Grocery,$700,42,M,3,Graduate,Single,VA,no,no,yes,cellular,Blue-collar,"$110,363",4,0,Low Risk,Low,11,30-45
+Blue,$431,1,108,23-Nov,Q4,2023,"$1,902","$1,787","$1,636",120,Chip ,Fuel,"$3,681",31,M,3,High School,Married,FL,no,no,no,cellular,Businessman,"$235,513",4,93.95,Low Risk,High,10,30-45
+Blue,$385,1,81,23-Nov,Q4,2023,"$2,279",$751,"$3,730",60,Online ,Grocery,$304,41,F,2,Unknown,Single,NV,yes,yes,no,unknown,Blue-collar,"$36,248",1,32.95,High Risk,Medium,10,30-45
+Blue,$325,0,132,23-Nov,Q4,2023,"$2,264",$818,"$2,651",57,Swipe ,Entertainment,$409,39,F,3,Graduate,Married,TX,no,no,yes,cellular,Selfemployeed,"$33,139",1,36.13,High Risk,Medium,10,30-45
+Blue,$237,1,77,23-Nov,Q4,2023,"$2,038",$919,"$1,901",40,Chip ,Fuel,$231,57,F,2,Graduate,Married,FL,no,yes,no,cellular,Retirees,"$16,094",5,45.09,Low Risk,Medium,9,46-60
+Blue,$284,0,82,23-Nov,Q4,2023,"$5,458","$1,142","$3,316",73,Swipe ,Food,$688,43,F,2,High School,Single,FL,yes,yes,yes,cellular,White-collar,"$39,840",4,20.92,Low Risk,Low,9,30-45
+Blue,$282,0,100,23-Nov,Q4,2023,"$1,052",$0,"$7,768",70,Swipe ,Food,"$1,214",35,M,2,Unknown,Single,CA,yes,no,no,cellular,White-collar,"$106,539",5,0,Low Risk,Low,8,30-45
+Blue,$381,1,116,23-Nov,Q4,2023,"$1,746","$1,785","$1,623",128,Chip ,Fuel,"$3,823",36,M,3,High School,Married,FL,no,no,no,cellular,Businessman,"$234,268",4,102.23,Low Risk,High,8,30-45
+Gold,$148,0,105,23-Nov,Q4,2023,"$1,491","$1,075","$1,900",121,Chip ,Travel,"$2,418",55,M,2,Uneducated,Single,NY,no,no,no,cellular,Businessman,"$198,269",1,72.1,High Risk,High,8,46-60
+Blue,$148,1,111,23-Nov,Q4,2023,"$7,241","$1,503","$1,618",30,Swipe ,Entertainment,$103,46,F,4,Graduate,Married,TX,yes,no,no,cellular,Selfemployeed,"$15,659",5,20.76,Low Risk,Low,8,46-60
+Silver,$225,0,108,23-Nov,Q4,2023,"$3,290","$1,655","$7,446",77,Swipe ,Grocery,"$1,485",35,M,3,Graduate,Unknown,TX,yes,yes,yes,cellular,White-collar,"$113,435",4,50.3,Low Risk,Medium,8,30-45
+Blue,$377,1,101,23-Nov,Q4,2023,"$1,578",$0,"$4,140",76,Chip ,Food,"$1,077",57,F,3,Uneducated,Married,CA,no,no,no,cellular,Businessman,"$57,324",4,0,Low Risk,Low,7,46-60
+Blue,$466,1,43,23-Nov,Q4,2023,"$4,202","$2,102","$1,715",40,Online ,Entertainment,$246,47,F,2,Graduate,Married,NJ,no,no,no,cellular,Selfemployeed,"$15,701",3,50.02,Low Risk,Medium,7,46-60
+Blue,$129,0,83,23-Nov,Q4,2023,"$1,653",$0,"$3,120",70,Swipe ,Entertainment,$935,47,F,2,Graduate,Single,CA,yes,no,no,cellular,Selfemployeed,"$32,310",4,0,Low Risk,Low,7,46-60
+Blue,$256,1,42,23-Nov,Q4,2023,"$9,399","$2,390","$1,627",35,Swipe ,Entertainment,$430,48,F,1,Graduate,Married,CA,no,no,no,unknown,Selfemployeed,"$14,977",5,25.43,Low Risk,Low,7,46-60
+Blue,$438,0,101,23-Nov,Q4,2023,"$3,718","$2,487","$1,923",49,Chip ,Bills,$295,36,F,4,Graduate,Single,FL,no,no,no,cellular,Blue-collar,"$15,080",5,66.89,Low Risk,High,7,30-45
+Blue,$353,1,77,23-Nov,Q4,2023,"$3,806","$1,132","$4,172",66,Swipe ,Grocery,"$1,151",31,F,4,Graduate,Married,CA,no,no,no,cellular,Blue-collar,"$55,297",1,29.74,High Risk,Low,7,30-45
+Blue,$322,0,86,23-Nov,Q4,2023,"$2,545","$1,874","$5,563",78,Swipe ,Entertainment,"$1,276",56,M,5,High School,Married,FL,yes,no,no,cellular,White-collar,"$88,409",2,73.63,Low Risk,High,7,46-60
+Blue,$399,1,106,23-Nov,Q4,2023,"$1,760","$1,649","$7,327",119,Chip ,Fuel,"$4,070",33,M,3,High School,Married,FL,no,no,no,cellular,Businessman,"$225,516",4,93.69,Low Risk,High,7,30-45
+Blue,$117,1,76,23-Nov,Q4,2023,"$7,300",$0,"$4,727",71,Swipe ,Entertainment,"$1,095",36,M,2,Graduate,Single,NY,no,no,no,cellular,White-collar,"$67,781",3,0,Low Risk,Low,7,30-45
+Blue,$129,0,76,23-Nov,Q4,2023,"$1,987",$0,"$1,916",44,Chip ,Fuel,$431,35,F,2,Uneducated,Married,NY,yes,yes,no,cellular,Selfemployeed,"$17,647",5,0,Low Risk,Low,7,30-45
+Blue,$152,1,66,23-Nov,Q4,2023,"$4,768","$2,158","$4,007",58,Swipe ,Entertainment,"$1,113",47,F,2,Graduate,Married,CA,no,yes,no,cellular,Selfemployeed,"$43,636",1,45.26,High Risk,Medium,7,46-60
+Silver,$197,1,87,23-Nov,Q4,2023,"$1,684","$2,579","$1,758",31,Swipe ,Travel,$404,30,M,1,Graduate,Married,TX,yes,yes,no,unknown,Businessman,"$13,975",2,153.15,Low Risk,High,7,30-45
+Blue,$453,1,95,23-Dec,Q4,2023,"$2,915",$960,"$4,708",71,Swipe ,Entertainment,$963,52,M,3,Unknown,Single,TX,yes,no,yes,telephone,Blue-collar,"$78,127",4,32.93,Low Risk,Medium,7,46-60
+Blue,$142,1,106,23-Dec,Q4,2023,"$7,508","$1,471","$1,600",32,Swipe ,Entertainment,$104,41,F,4,Graduate,Married,TX,yes,no,no,cellular,Selfemployeed,"$15,658",5,19.59,Low Risk,Low,6,30-45
+Blue,$403,1,156,23-Dec,Q4,2023,"$2,021","$1,634","$4,369",83,Swipe ,Fuel,$721,49,M,3,High School,Unknown,FL,yes,yes,no,cellular,Retirees,"$49,027",4,80.85,Low Risk,High,6,46-60
+Blue,$106,1,62,23-Dec,Q4,2023,"$2,482","$1,710","$4,381",82,Swipe ,Bills,$736,33,M,3,High School,Married,MN,no,no,no,cellular,Blue-collar,"$74,048",5,68.9,Low Risk,High,6,30-45
+Blue,$388,0,164,23-Dec,Q4,2023,"$3,168","$2,315","$4,571",69,Chip ,Travel,"$1,197",55,M,1,Graduate,Married,CA,yes,no,no,telephone,White-collar,"$72,731",3,73.07,Low Risk,High,6,46-60
+Blue,$96,0,118,23-Dec,Q4,2023,"$1,296",$0,"$3,884",83,Online ,Grocery,"$1,044",49,F,4,Post-Graduate,Single,TX,no,yes,no,cellular,Selfemployeed,"$53,059",1,0,High Risk,Low,6,46-60
+Blue,$288,0,87,23-Dec,Q4,2023,"$8,627","$1,930","$1,500",29,Swipe ,Bills,$405,47,M,4,Uneducated,Unknown,UT,no,no,no,cellular,Selfemployeed,"$16,510",1,22.37,High Risk,Low,6,46-60
+Blue,$463,1,98,23-Dec,Q4,2023,"$1,127","$1,708","$3,364",71,Chip ,Food,$574,37,F,2,Unknown,Married,FL,no,yes,no,unknown,Govt,"$37,294",2,151.55,Low Risk,High,6,30-45
+Blue,$149,1,121,23-Dec,Q4,2023,"$7,964","$1,486","$1,656",30,Swipe ,Entertainment,$108,46,F,4,Graduate,Married,TX,yes,no,no,cellular,Selfemployeed,"$14,231",5,18.66,Low Risk,Low,6,46-60
+Silver,$344,1,114,23-Dec,Q4,2023,"$3,205","$1,771","$1,795",111,Swipe ,Bills,"$4,333",47,M,4,Unknown,Married,FL,no,no,no,cellular,Businessman,"$222,007",5,55.26,Low Risk,Medium,6,46-60
+Silver,$113,1,104,23-Dec,Q4,2023,"$3,348",$790,"$1,915",30,Swipe ,Grocery,$264,51,F,2,Graduate,Married,NY,no,yes,yes,cellular,Retirees,"$17,416",4,23.6,Low Risk,Low,6,46-60
+Blue,$373,1,71,23-Dec,Q4,2023,"$2,157",$739,"$3,570",65,Online ,Grocery,$332,39,F,2,Unknown,Single,NV,yes,yes,no,unknown,Blue-collar,"$34,016",1,34.26,High Risk,Medium,5,30-45
+Blue,$296,1,92,23-Dec,Q4,2023,"$5,485",$885,"$2,069",48,Swipe ,Entertainment,$259,42,F,5,High School,Married,CA,no,yes,no,unknown,Retirees,"$19,463",4,16.13,Low Risk,Low,5,30-45
+Blue,$285,1,91,23-Dec,Q4,2023,"$2,926",$0,"$2,204",40,Swipe ,Bills,$197,60,F,3,Unknown,Single,FL,yes,no,no,unknown,White-collar,"$25,032",5,0,Low Risk,Low,5,46-60
+Blue,$226,0,115,23-Dec,Q4,2023,"$2,134","$2,125","$8,519",93,Swipe ,Entertainment,"$2,500",39,M,3,Graduate,Married,NJ,no,yes,yes,cellular,Blue-collar,"$118,131",2,99.58,Low Risk,High,5,30-45
+Blue,$133,0,112,23-Dec,Q4,2023,"$2,700","$1,798","$3,247",57,Chip ,Fuel,$408,32,F,2,Uneducated,Unknown,CA,yes,yes,no,cellular,Retirees,"$37,245",3,66.59,Low Risk,High,4,30-45
+Blue,$336,0,112,23-Dec,Q4,2023,"$3,243","$1,668","$1,431",97,Swipe ,Fuel,"$1,864",46,M,4,Graduate,Single,NJ,no,yes,no,cellular,White-collar,"$120,055",5,51.43,Low Risk,Medium,4,46-60
+Blue,$124,1,79,23-Dec,Q4,2023,"$7,107",$0,"$4,544",75,Swipe ,Entertainment,"$1,037",37,M,2,Graduate,Single,NY,no,no,no,cellular,White-collar,"$68,658",3,0,Low Risk,Low,4,30-45
+Blue,$376,0,112,23-Dec,Q4,2023,"$5,328","$1,139","$7,893",82,Swipe ,Food,"$1,558",40,M,5,Unknown,Married,TX,yes,yes,no,cellular,Businessman,"$111,694",1,21.38,High Risk,Low,4,30-45
+Blue,$254,1,97,23-Dec,Q4,2023,"$6,588","$1,491","$1,472",43,Swipe ,Entertainment,$151,51,F,4,Doctorate,Married,NY,no,no,no,telephone,Selfemployeed,"$15,562",5,22.63,Low Risk,Low,4,46-60
+Blue,$281,1,99,23-Dec,Q4,2023,"$6,205","$1,365","$4,511",92,Chip ,Entertainment,$761,46,M,2,Unknown,Single,FL,yes,no,no,unknown,Blue-collar,"$95,067",5,22,Low Risk,Low,4,46-60
+Blue,$97,1,106,23-Dec,Q4,2023,"$1,186","$1,368","$3,948",84,Swipe ,Bills,$307,58,M,2,Unknown,Single,CA,yes,no,no,cellular,Govt,"$45,980",3,115.35,Low Risk,High,4,46-60
+Blue,$313,0,157,23-Dec,Q4,2023,"$2,245","$1,575","$2,631",50,Swipe ,Food,$159,39,F,2,Graduate,Married,CA,no,no,no,cellular,Selfemployeed,"$30,115",5,70.16,Low Risk,High,4,30-45
+Blue,$302,1,89,23-Dec,Q4,2023,"$5,804",$845,"$2,228",50,Swipe ,Entertainment,$233,42,F,5,High School,Married,CA,no,yes,no,unknown,Retirees,"$20,767",4,14.56,Low Risk,Low,4,30-45
+Blue,$461,0,159,23-Dec,Q4,2023,"$3,099",$0,"$2,995",47,Swipe ,Bills,$573,61,F,1,High School,Single,TX,yes,no,no,cellular,Selfemployeed,"$32,246",5,0,Low Risk,Low,4,60+
+Blue,$272,1,66,23-Dec,Q4,2023,"$5,373","$1,303","$1,359",30,Swipe ,Bills,$315,63,F,1,Unknown,Married,NJ,yes,no,no,cellular,Selfemployeed,"$147,548",4,24.25,Low Risk,Low,4,60+
+Blue,$417,1,72,23-Dec,Q4,2023,"$1,478",$0,"$2,398",41,Swipe ,Food,$373,30,M,0,High School,Single,TX,no,yes,yes,unknown,Selfemployeed,"$24,764",4,0,Low Risk,Low,4,30-45
+Blue,$273,1,43,23-Dec,Q4,2023,"$1,043","$2,181","$1,559",37,Swipe ,Entertainment,$377,49,F,1,Graduate,Married,CA,no,no,no,unknown,Selfemployeed,"$15,825",5,209.11,Low Risk,High,3,46-60
+Blue,$146,1,88,23-Dec,Q4,2023,"$1,364",$0,"$3,797",86,Swipe ,Entertainment,$329,60,F,1,Graduate,Single,NY,yes,no,no,cellular,Selfemployeed,"$40,899",4,0,Low Risk,Low,3,46-60
+Blue,$251,1,104,23-Dec,Q4,2023,"$4,597",$0,"$4,419",89,Swipe ,Bills,$374,57,M,0,Doctorate,Married,SC,no,yes,no,cellular,Businessman,"$70,629",2,0,Low Risk,Low,3,46-60
+Blue,$244,0,85,23-Dec,Q4,2023,"$2,422","$2,483","$7,645",88,Swipe ,Entertainment,"$1,597",34,M,4,Uneducated,Married,NY,yes,yes,no,unknown,Govt,"$104,170",4,102.52,Low Risk,High,3,30-45
+Blue,$416,0,103,24-Jan,Q1,2024,"$3,363","$2,598","$1,761",43,Chip ,Bills,$316,41,F,4,Graduate,Single,FL,no,no,no,cellular,Blue-collar,"$15,231",5,77.25,Low Risk,High,3,30-45
+Blue,$96,0,162,24-Jan,Q1,2024,"$2,265","$2,071","$3,975",66,Chip ,Fuel,$815,52,F,3,Graduate,Married,NY,no,no,no,cellular,Selfemployeed,"$49,298",2,91.43,Low Risk,High,3,46-60
+Blue,$292,1,49,24-Jan,Q1,2024,"$2,522","$1,033","$2,555",56,Swipe ,Bills,$373,53,F,1,High School,Single,CA,yes,yes,no,cellular,Selfemployeed,"$26,633",4,40.96,Low Risk,Medium,3,46-60
+Blue,$119,0,106,24-Jan,Q1,2024,"$1,421","$2,456","$2,041",53,Swipe ,Fuel,$487,53,F,3,Unknown,Single,TX,no,yes,no,cellular,Selfemployeed,"$19,400",4,172.84,Low Risk,High,3,46-60
+Blue,$416,1,92,24-Jan,Q1,2024,"$1,767",$0,"$4,157",81,Chip ,Food,"$1,185",46,F,3,Uneducated,Married,CA,no,no,no,cellular,Businessman,"$52,657",4,0,Low Risk,Low,3,46-60
+Blue,$179,0,141,24-Jan,Q1,2024,"$2,893","$1,691","$5,016",84,Swipe ,Food,$735,39,M,3,Graduate,Married,CA,no,yes,no,cellular,Blue-collar,"$89,424",4,58.45,Low Risk,Medium,3,30-45
+Blue,$361,1,131,24-Jan,Q1,2024,"$3,184","$1,671","$1,766",54,Swipe ,Entertainment,$333,46,F,3,Doctorate,Married,CA,no,no,no,unknown,Selfemployeed,"$14,469",1,52.48,High Risk,Medium,3,46-60
+Blue,$90,1,126,24-Jan,Q1,2024,"$2,896","$2,025","$4,664",95,Swipe ,Grocery,$983,55,M,5,High School,Married,NJ,no,no,no,cellular,Govt,"$66,344",1,69.92,High Risk,High,3,46-60
+Blue,$363,1,73,24-Jan,Q1,2024,"$4,844","$1,206","$1,614",56,Swipe ,Bills,$121,39,F,3,Graduate,Unknown,TX,no,yes,no,cellular,Selfemployeed,"$13,275",1,24.9,High Risk,Low,3,30-45
+Silver,$221,0,105,24-Jan,Q1,2024,"$3,651","$1,579","$7,429",83,Swipe ,Grocery,"$1,505",36,M,3,Graduate,Unknown,TX,yes,yes,yes,cellular,White-collar,"$99,065",4,43.25,Low Risk,Medium,3,30-45
+Blue,$240,1,84,24-Jan,Q1,2024,"$2,770","$1,426","$3,058",74,Swipe ,Bills,$297,58,F,1,High School,Single,CA,no,no,no,cellular,Govt,"$33,362",4,51.48,Low Risk,Medium,2,46-60
+Blue,$413,0,78,24-Jan,Q1,2024,"$1,718",$0,"$1,618",31,Swipe ,Bills,$171,62,F,1,High School,Married,CA,no,no,no,cellular,Selfemployeed,"$14,639",1,0,High Risk,Low,2,60+
+Blue,$512,1,80,24-Jan,Q1,2024,"$1,837",$0,"$5,129",83,Swipe ,Fuel,"$1,259",48,M,1,Graduate,Married,TX,no,yes,no,cellular,Businessman,"$94,053",5,0,Low Risk,Low,2,46-60
+Blue,$122,0,110,24-Jan,Q1,2024,"$8,107","$1,373","$5,049",86,Swipe ,Grocery,"$1,179",36,M,2,Graduate,Unknown,CT,yes,no,no,telephone,Businessman,"$87,251",4,16.94,Low Risk,Low,2,30-45
+Blue,$374,1,40,24-Jan,Q1,2024,"$3,011","$1,688","$1,605",36,Swipe ,Bills,$343,34,F,1,Graduate,Single,NY,no,yes,no,unknown,Selfemployeed,"$14,944",4,56.06,Low Risk,Medium,2,30-45
+Blue,$335,0,91,24-Jan,Q1,2024,"$2,810","$1,719","$4,456",82,Swipe ,Entertainment,"$1,369",58,M,5,High School,Married,FL,yes,no,no,cellular,White-collar,"$98,289",2,61.17,Low Risk,High,2,46-60
+Blue,$416,1,103,24-Jan,Q1,2024,"$1,632",$0,"$4,390",75,Chip ,Food,"$1,265",55,F,3,Uneducated,Married,CA,no,no,no,cellular,Businessman,"$56,945",4,0,Low Risk,Low,2,46-60
+Blue,$339,1,68,24-Jan,Q1,2024,"$3,436","$2,480","$4,403",66,Swipe ,Fuel,$578,40,M,2,Uneducated,Single,NY,no,yes,no,cellular,Govt,"$69,669",3,72.18,Low Risk,High,2,30-45
+Blue,$199,1,136,24-Jan,Q1,2024,"$7,974","$1,504","$5,163",56,Swipe ,Fuel,$820,47,M,5,Graduate,Married,TX,yes,yes,no,cellular,Blue-collar,"$79,325",5,18.86,Low Risk,Low,2,46-60
+Blue,$359,1,79,24-Jan,Q1,2024,"$3,226","$1,505","$7,691",92,Swipe ,Travel,$684,51,M,3,Graduate,Unknown,FL,yes,yes,yes,unknown,White-collar,"$100,344",3,46.65,Low Risk,Medium,2,46-60
+Gold,$84,0,88,24-Jan,Q1,2024,"$4,056","$1,707","$1,630",115,Online ,Travel,"$2,436",35,M,2,Unknown,Married,CA,yes,no,no,cellular,Businessman,"$214,054",5,42.09,Low Risk,Medium,1,30-45
+Blue,$301,1,96,24-Jan,Q1,2024,"$2,331","$2,009","$2,553",31,Swipe ,Grocery,$167,29,F,1,Graduate,Single,TX,no,yes,no,unknown,Businessman,"$27,870",2,86.19,Low Risk,High,1,<30
+Blue,$346,1,114,24-Jan,Q1,2024,"$2,423","$1,882","$5,023",67,Chip ,Food,$858,56,M,2,Graduate,Married,CA,no,no,no,cellular,Selfemployeed,"$86,697",5,77.67,Low Risk,High,1,46-60
+Blue,$205,1,157,24-Jan,Q1,2024,"$2,328",$691,"$3,025",67,Online ,Entertainment,$192,48,F,1,Graduate,Married,NY,no,no,no,cellular,White-collar,"$34,971",4,29.68,Low Risk,Low,1,46-60
+Blue,$123,1,109,24-Jan,Q1,2024,"$5,160","$1,208","$1,651",104,Chip ,Travel,"$2,112",59,M,0,High School,Single,NY,yes,no,no,cellular,Businessman,"$210,566",5,23.41,Low Risk,Low,1,46-60
+Blue,$97,0,72,24-Jan,Q1,2024,"$1,541",$0,"$5,082",86,Online ,Grocery,$864,39,M,1,High School,Married,NJ,no,no,no,cellular,Businessman,"$84,986",5,0,Low Risk,Low,1,30-45
+Blue,$134,1,47,24-Jan,Q1,2024,"$2,561","$2,192","$1,925",29,Swipe ,Fuel,$209,58,F,1,Post-Graduate,Married,NJ,yes,yes,no,telephone,Blue-collar,"$16,534",4,85.59,Low Risk,High,1,46-60
+Blue,$276,1,100,24-Jan,Q1,2024,"$2,242","$1,989","$2,556",32,Swipe ,Grocery,$178,29,F,1,Graduate,Single,TX,no,yes,no,unknown,Businessman,"$29,213",2,88.72,Low Risk,High,1,<30
+Blue,$399,0,152,24-Jan,Q1,2024,"$4,030",$674,"$2,176",35,Chip ,Grocery,$638,62,F,0,Unknown,Married,CA,no,yes,no,cellular,Govt,"$30,537",4,16.72,Low Risk,Low,1,60+
+Blue,$450,0,81,24-Jan,Q1,2024,"$5,486","$1,278","$4,348",75,Swipe ,Entertainment,$390,45,M,4,Graduate,Single,TX,no,no,no,cellular,Govt,"$51,042",5,23.3,Low Risk,Low,1,30-45
+Blue,$241,0,79,24-Jan,Q1,2024,"$7,921","$1,015","$3,841",63,Chip ,Food,$868,63,M,1,Unknown,Married,NY,yes,yes,no,cellular,White-collar,"$47,002",4,12.81,Low Risk,Low,1,60+
+Blue,$153,0,97,24-Feb,Q1,2024,"$7,331","$2,003","$2,282",42,Swipe ,Fuel,$307,44,F,2,Unknown,Single,TX,yes,yes,no,cellular,Govt,"$24,336",2,27.32,Low Risk,Low,1,30-45
+Blue,$133,0,82,24-Feb,Q1,2024,"$5,584","$1,958","$2,137",40,Swipe ,Grocery,$288,40,F,2,Uneducated,Single,NJ,yes,no,no,unknown,Retirees,"$20,579",5,35.06,Low Risk,Medium,1,30-45
+Blue,$139,0,89,24-Feb,Q1,2024,"$2,190","$1,608","$4,746",82,Chip ,Entertainment,$555,50,M,1,Unknown,Married,FL,no,no,no,cellular,Retirees,"$67,870",4,73.42,Low Risk,High,1,46-60
+Blue,$388,1,119,24-Feb,Q1,2024,"$2,389","$1,410","$2,341",36,Swipe ,Bills,$529,41,F,1,Graduate,Married,TX,no,yes,no,cellular,White-collar,"$25,546",5,59.02,Low Risk,Medium,1,30-45
+Blue,$191,1,80,24-Feb,Q1,2024,"$2,365","$1,006","$2,592",38,Swipe ,Fuel,$357,50,F,2,Graduate,Single,FL,no,yes,no,cellular,White-collar,"$30,756",3,42.54,Low Risk,Medium,1,46-60
+Silver,$374,1,118,24-Feb,Q1,2024,"$3,264","$1,626","$1,428",119,Swipe ,Bills,"$3,734",46,M,4,Unknown,Married,FL,no,no,no,cellular,Businessman,"$220,740",5,49.82,Low Risk,Medium,1,46-60
+Blue,$274,1,95,24-Feb,Q1,2024,"$2,282","$1,868","$2,507",32,Swipe ,Grocery,$178,27,F,1,Graduate,Single,TX,no,yes,no,unknown,Businessman,"$29,135",2,81.86,Low Risk,High,1,<30
+Blue,$443,0,130,24-Feb,Q1,2024,"$1,706","$2,477","$2,137",44,Swipe ,Bills,$396,46,F,2,High School,Unknown,FL,yes,yes,no,telephone,Govt,"$21,043",3,145.19,Low Risk,High,1,46-60
+Blue,$96,0,100,24-Feb,Q1,2024,"$7,969","$1,515","$3,629",67,Swipe ,Entertainment,$228,48,F,3,Post-Graduate,Married,CA,no,yes,yes,cellular,Blue-collar,"$43,680",5,19.01,Low Risk,Low,1,46-60
+Blue,$304,1,51,24-Feb,Q1,2024,"$2,593","$1,020","$2,343",57,Swipe ,Bills,$314,51,F,1,High School,Single,CA,yes,yes,no,cellular,Selfemployeed,"$24,314",4,39.34,Low Risk,Medium,0,46-60
+Blue,$415,0,47,24-Feb,Q1,2024,"$1,256",$0,"$1,423",29,Swipe ,Grocery,$362,44,F,0,Unknown,Married,TX,yes,yes,no,cellular,Blue-collar,"$11,231",3,0,Low Risk,Low,0,30-45
+Blue,$465,0,120,24-Feb,Q1,2024,"$4,531","$2,363","$2,056",46,Swipe ,Bills,$350,47,F,2,High School,Unknown,FL,yes,yes,no,telephone,Govt,"$19,531",3,52.15,Low Risk,Medium,0,46-60
